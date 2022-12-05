@@ -1,0 +1,113 @@
+brand=Volkswagen, model=Vento, bodyType=SUV
+brand=Volkswagen, model=Polo, bodyType=SUV
+brand=Volkswagen, model=Tiguan, bodyType=SUV
+brand=Lexus, model=RX, bodyType=SUV
+brand=Lexus, model=NX, bodyType=SUV
+brand=Volvo, model=XC 90, bodyType=SUV
+brand=Volvo, model=XC60, bodyType=SUV
+brand=Volvo, model=XC40, bodyType=SUV
+brand=Audi, model=Q3, bodyType=SUV
+brand=Audi, model=Q5, bodyType=SUV
+brand=Audi, model=Q7, bodyType=SUV
+brand=Audi, model=Q8, bodyType=SUV
+brand=Chevrolet, model=Captiva, bodyType=SUV
+brand=Honda, model=Jazz, bodyType=SUV
+brand=Honda, model=BR-V, bodyType=SUV
+brand=Honda, model=CR-V, bodyType=SUV
+brand=Honda, model=Brio, bodyType=SUV
+brand=Honda, model=Mobilio, bodyType=SUV
+brand=Honda, model=Civic, bodyType=SUV
+brand=Honda, model=WR-V, bodyType=SUV
+brand=Mini, model=Cooper Countryman, bodyType=SUV
+brand=Porsche, model=Macan, bodyType=SUV
+brand=Porsche, model=Cayenne, bodyType=SUV
+brand=MG, model=Hector Plus, bodyType=SUV
+brand=MG, model=Hector, bodyType=SUV
+brand=Isuzu, model=MU-X, bodyType=SUV
+brand=Isuzu, model=MU 7, bodyType=SUV
+brand=Tata, model=Hexa, bodyType=SUV
+brand=Tata, model=Nexon, bodyType=SUV
+brand=Tata, model=NEXON, bodyType=SUV
+brand=Tata, model=New Safari, bodyType=SUV
+brand=Tata, model=Safari Storme, bodyType=SUV
+brand=Tata, model=Harrier, bodyType=SUV
+brand=Hyundai, model=Santa Fe, bodyType=SUV
+brand=Hyundai, model=VENUE, bodyType=SUV
+brand=Hyundai, model=Venue, bodyType=SUV
+brand=Hyundai, model=Tucson, bodyType=SUV
+brand=Hyundai, model=Creta, bodyType=SUV
+brand=Hyundai, model=i10, bodyType=SUV
+brand=Hyundai, model=i20 Active, bodyType=SUV
+brand=Maruti, model=Grand Vitara, bodyType=SUV
+brand=Maruti, model=Celerio, bodyType=SUV
+brand=Maruti, model=Vitara, bodyType=SUV
+brand=Maruti, model=Vitara Brezza, bodyType=SUV
+brand=Maruti, model=XL6, bodyType=SUV
+brand=Maruti, model=S, bodyType=SUV
+brand=Maruti, model=SX4 S Cross, bodyType=SUV
+brand=Maruti, model=Ertiga, bodyType=SUV
+brand=Maruti, model=Swift, bodyType=SUV
+brand=Maruti, model=Eeco, bodyType=SUV
+brand=Maruti, model=Ignis, bodyType=SUV
+brand=Kia, model=Sonet, bodyType=SUV
+brand=Kia, model=Seltos, bodyType=SUV
+brand=Datsun, model=RediGO, bodyType=SUV
+brand=Renault, model=TRIBER, bodyType=SUV
+brand=Renault, model=Koleos, bodyType=SUV
+brand=Renault, model=Captur, bodyType=SUV
+brand=Renault, model=Duster, bodyType=SUV
+brand=Jeep, model=Wrangler, bodyType=SUV
+brand=Jeep, model=Compass, bodyType=SUV
+brand=Mitsubishi, model=Pajero, bodyType=SUV
+brand=Mitsubishi, model=Outlander, bodyType=SUV
+brand=BMW, model=X1, bodyType=SUV
+brand=BMW, model=X3, bodyType=SUV
+brand=BMW, model=X5, bodyType=SUV
+brand=BMW, model=3 Series, bodyType=SUV
+brand=Land, model=Rover Range Rover Velar, bodyType=SUV
+brand=Land, model=Rover Discovery Sport, bodyType=SUV
+brand=Land, model=Rover Freelander 2, bodyType=SUV
+brand=Land, model=Rover Range Rover Evoque, bodyType=SUV
+brand=Land, model=Rover Discovery, bodyType=SUV
+brand=Land, model=Rover Range Rover Sport, bodyType=SUV
+brand=Land, model=Rover Range Rover, bodyType=SUV
+brand=Mahindra, model=Thar, bodyType=SUV
+brand=Mahindra, model=Scorpio, bodyType=SUV
+brand=Mahindra, model=Kuv100, bodyType=SUV
+brand=Mahindra, model=TUV 300, bodyType=SUV
+brand=Mahindra, model=Xylo, bodyType=SUV
+brand=Mahindra, model=KUV, bodyType=SUV
+brand=Mahindra, model=Bolero, bodyType=SUV
+brand=Mahindra, model=NUVOSPORT, bodyType=SUV
+brand=Mahindra, model=Bolero Power Plus, bodyType=SUV
+brand=Mahindra, model=TUV300, bodyType=SUV
+brand=Mahindra, model=KUV 100, bodyType=SUV
+brand=Mahindra, model=XUV, bodyType=SUV
+brand=Mahindra, model=XUV300, bodyType=SUV
+brand=Mahindra, model=Quanto, bodyType=SUV
+brand=Mahindra, model=XUV500, bodyType=SUV
+brand=Mahindra, model=Ssangyong Rexton, bodyType=SUV
+brand=Premier, model=Rio, bodyType=SUV
+brand=Toyota, model=Innova Crysta, bodyType=SUV
+brand=Toyota, model=Innova, bodyType=SUV
+brand=Toyota, model=Fortuner, bodyType=SUV
+brand=Toyota, model=Land Cruiser, bodyType=SUV
+brand=Toyota, model=Qualis, bodyType=SUV
+brand=Skoda, model=Yeti, bodyType=SUV
+brand=Skoda, model=Kodiaq, bodyType=SUV
+brand=Jaguar, model=F-Pace, bodyType=SUV
+brand=Mercedes-Benz, model=GLA Class, bodyType=SUV
+brand=Mercedes-Benz, model=M-Class, bodyType=SUV
+brand=Mercedes-Benz, model=New C-Class, bodyType=SUV
+brand=Mercedes-Benz, model=GLE Class, bodyType=SUV
+brand=Mercedes-Benz, model=GL-Class, bodyType=SUV
+brand=Mercedes-Benz, model=GLS, bodyType=SUV
+brand=Mercedes-Benz, model=GLC, bodyType=SUV
+brand=Hummer, model=H3, bodyType=SUV
+brand=Ford, model=Endeavour, bodyType=SUV
+brand=Ford, model=EcoSport, bodyType=SUV
+brand=Ford, model=Ecosport, bodyType=SUV
+brand=Nissan, model=Terrano, bodyType=SUV
+brand=Nissan, model=X-Trail, bodyType=SUV
+brand=Nissan, model=Magnite, bodyType=SUV
+brand=Nissan, model=Kicks, bodyType=SUV

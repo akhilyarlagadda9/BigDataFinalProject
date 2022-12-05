@@ -47,6 +47,12 @@ public class Car {
 		this.model = model;
 		this.year = year;
 	}
+
+	public Car(String brand,  String model, String bodyType) {
+		this.brand = brand;
+		this.model = model;
+		this.bodyType = bodyType;
+	}
 	
 	
 
@@ -110,12 +116,9 @@ public class Car {
 		return "brand=" + brand + ", Manufacture Year=" + year + ", count=" + this.goal2Count;
 	}
 
-
-
 	public String Goal3String() {
 		return  "brand=" + brand +", model=" + model + ", fuel= diesel"; 
 	}
-	
 	
 	public String Goal4String() {
 		return "id ="+id+", brand=" + brand + ", model="+ model+", Manufacture Year="+year+", price="+price; 
@@ -127,6 +130,10 @@ public class Car {
 	
 	public String Goal6String() {
 		return  "brand=" + brand +", model=" + model + ", Count=" + this.goal6Count; 
+	}
+
+	public String Goal7String() {
+		return  "brand=" + brand +", model=" + model + ", bodyType=" + bodyType; 
 	}
 	
 	
