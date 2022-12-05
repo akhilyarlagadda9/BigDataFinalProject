@@ -1,0 +1,166 @@
+id =78, brand=Maruti, model=Alto, Manufacture Year=2018, drivenKilometers=3212
+id =337, brand=Renault, model=Kwid, Manufacture Year=2019, drivenKilometers=4037
+id =375, brand=Maruti, model=S, Manufacture Year=2019, drivenKilometers=3353
+id =415, brand=Maruti, model=Alto, Manufacture Year=2017, drivenKilometers=2678
+id =416, brand=Tata, model=Tiago, Manufacture Year=2018, drivenKilometers=4013
+id =427, brand=Hyundai, model=Eon, Manufacture Year=2015, drivenKilometers=4711
+id =559, brand=Renault, model=Kwid, Manufacture Year=2019, drivenKilometers=2663
+id =584, brand=Maruti, model=Baleno, Manufacture Year=2016, drivenKilometers=674
+id =610, brand=Tata, model=Tiago, Manufacture Year=2019, drivenKilometers=4321
+id =634, brand=Maruti, model=Alto, Manufacture Year=2020, drivenKilometers=3942
+id =822, brand=Maruti, model=Dzire, Manufacture Year=2020, drivenKilometers=800
+id =889, brand=Ford, model=Figo, Manufacture Year=2018, drivenKilometers=4963
+id =1078, brand=Hyundai, model=VENUE, Manufacture Year=2021, drivenKilometers=2589
+id =1152, brand=Hyundai, model=Creta, Manufacture Year=2019, drivenKilometers=3249
+id =1374, brand=Maruti, model=Alto, Manufacture Year=2018, drivenKilometers=3212
+id =1634, brand=Renault, model=Kwid, Manufacture Year=2019, drivenKilometers=4037
+id =1668, brand=Maruti, model=S, Manufacture Year=2019, drivenKilometers=3353
+id =1706, brand=Maruti, model=Alto, Manufacture Year=2017, drivenKilometers=2678
+id =1707, brand=Tata, model=Tiago, Manufacture Year=2018, drivenKilometers=4013
+id =1717, brand=Hyundai, model=Eon, Manufacture Year=2015, drivenKilometers=4711
+id =1829, brand=Maruti, model=Alto, Manufacture Year=2020, drivenKilometers=3942
+id =2015, brand=Maruti, model=Dzire, Manufacture Year=2020, drivenKilometers=800
+id =2017, brand=Honda, model=Amaze, Manufacture Year=2019, drivenKilometers=4693
+id =2083, brand=Ford, model=Figo, Manufacture Year=2018, drivenKilometers=4963
+id =2219, brand=Hyundai, model=VENUE, Manufacture Year=2021, drivenKilometers=2589
+id =2459, brand=Maruti, model=Alto, Manufacture Year=2018, drivenKilometers=3212
+id =2717, brand=Renault, model=Kwid, Manufacture Year=2019, drivenKilometers=4037
+id =2751, brand=Maruti, model=S, Manufacture Year=2019, drivenKilometers=3353
+id =2787, brand=Maruti, model=Alto, Manufacture Year=2017, drivenKilometers=2678
+id =2788, brand=Tata, model=Tiago, Manufacture Year=2018, drivenKilometers=4013
+id =2798, brand=Hyundai, model=Eon, Manufacture Year=2015, drivenKilometers=4711
+id =2911, brand=Maruti, model=Alto, Manufacture Year=2020, drivenKilometers=3942
+id =3096, brand=Maruti, model=Dzire, Manufacture Year=2020, drivenKilometers=800
+id =3098, brand=Honda, model=Amaze, Manufacture Year=2019, drivenKilometers=4693
+id =3164, brand=Ford, model=Figo, Manufacture Year=2018, drivenKilometers=4963
+id =3299, brand=Hyundai, model=VENUE, Manufacture Year=2021, drivenKilometers=2589
+id =3472, brand=Maruti, model=Celerio, Manufacture Year=2017, drivenKilometers=4760
+id =3489, brand=Maruti, model=Alto, Manufacture Year=2015, drivenKilometers=3370
+id =3593, brand=Maruti, model=Alto, Manufacture Year=2018, drivenKilometers=4343
+id =3694, brand=Maruti, model=Celerio, Manufacture Year=2015, drivenKilometers=3602
+id =3706, brand=Maruti, model=Baleno, Manufacture Year=2020, drivenKilometers=3290
+id =3754, brand=Hyundai, model=Elite, Manufacture Year=2018, drivenKilometers=4649
+id =3814, brand=Hyundai, model=Grand, Manufacture Year=2018, drivenKilometers=4750
+id =3829, brand=Maruti, model=Swift, Manufacture Year=2019, drivenKilometers=3764
+id =3913, brand=Maruti, model=Alto, Manufacture Year=2018, drivenKilometers=4065
+id =3959, brand=Maruti, model=Baleno, Manufacture Year=2018, drivenKilometers=4475
+id =4056, brand=Renault, model=Kwid, Manufacture Year=2018, drivenKilometers=3517
+id =4079, brand=Maruti, model=Alto, Manufacture Year=2014, drivenKilometers=3447
+id =4166, brand=Hyundai, model=AURA, Manufacture Year=2020, drivenKilometers=2963
+id =4186, brand=Maruti, model=Dzire, Manufacture Year=2018, drivenKilometers=3226
+id =4385, brand=Maruti, model=Dzire, Manufacture Year=2020, drivenKilometers=1447
+id =4504, brand=Hyundai, model=VENUE, Manufacture Year=2020, drivenKilometers=3843
+id =4510, brand=Mahindra, model=KUV, Manufacture Year=2017, drivenKilometers=2360
+id =4676, brand=Renault, model=TRIBER, Manufacture Year=2019, drivenKilometers=2058
+id =4833, brand=Maruti, model=Alto, Manufacture Year=2018, drivenKilometers=4065
+id =4879, brand=Maruti, model=Baleno, Manufacture Year=2018, drivenKilometers=4475
+id =4978, brand=Renault, model=Kwid, Manufacture Year=2018, drivenKilometers=3517
+id =5001, brand=Maruti, model=Alto, Manufacture Year=2014, drivenKilometers=3447
+id =5069, brand=Maruti, model=Celerio, Manufacture Year=2017, drivenKilometers=4760
+id =5086, brand=Maruti, model=Alto, Manufacture Year=2015, drivenKilometers=3370
+id =5188, brand=Maruti, model=Alto, Manufacture Year=2018, drivenKilometers=4343
+id =5281, brand=Maruti, model=Celerio, Manufacture Year=2015, drivenKilometers=3602
+id =5286, brand=Maruti, model=Baleno, Manufacture Year=2020, drivenKilometers=3290
+id =5300, brand=Hyundai, model=Elite, Manufacture Year=2018, drivenKilometers=4649
+id =5322, brand=Hyundai, model=Grand, Manufacture Year=2018, drivenKilometers=4750
+id =5337, brand=Maruti, model=Swift, Manufacture Year=2019, drivenKilometers=3764
+id =5414, brand=Maruti, model=Dzire, Manufacture Year=2020, drivenKilometers=1447
+id =5468, brand=Hyundai, model=AURA, Manufacture Year=2020, drivenKilometers=2963
+id =5488, brand=Maruti, model=Dzire, Manufacture Year=2018, drivenKilometers=3226
+id =5645, brand=Renault, model=TRIBER, Manufacture Year=2019, drivenKilometers=2058
+id =5713, brand=Hyundai, model=VENUE, Manufacture Year=2020, drivenKilometers=3843
+id =5827, brand=Maruti, model=Swift, Manufacture Year=2021, drivenKilometers=2242
+id =5944, brand=Renault, model=KWID, Manufacture Year=2018, drivenKilometers=4000
+id =6099, brand=Maruti, model=S-Presso, Manufacture Year=2020, drivenKilometers=4000
+id =6103, brand=Maruti, model=Wagon R, Manufacture Year=2019, drivenKilometers=5000
+id =6104, brand=Maruti, model=Wagon R, Manufacture Year=2019, drivenKilometers=5000
+id =6110, brand=Toyota, model=Glanza, Manufacture Year=2020, drivenKilometers=5000
+id =6121, brand=Hyundai, model=Grand i10 Nios, Manufacture Year=2019, drivenKilometers=5000
+id =6167, brand=Tata, model=Tiago, Manufacture Year=2020, drivenKilometers=3600
+id =6267, brand=Hyundai, model=i20, Manufacture Year=2019, drivenKilometers=5000
+id =6483, brand=Audi, model=Q3, Manufacture Year=2018, drivenKilometers=4700
+id =6485, brand=Hyundai, model=Venue, Manufacture Year=2019, drivenKilometers=3600
+id =6642, brand=Maruti, model=XL6, Manufacture Year=2021, drivenKilometers=2000
+id =6705, brand=Maruti, model=Ertiga, Manufacture Year=2020, drivenKilometers=3000
+id =6856, brand=Maruti, model=Wagon R, Manufacture Year=2020, drivenKilometers=1775
+id =6857, brand=Maruti, model=Wagon R, Manufacture Year=2020, drivenKilometers=1775
+id =7002, brand=Tata, model=Nano, Manufacture Year=2015, drivenKilometers=4638
+id =7055, brand=Toyota, model=Glanza, Manufacture Year=2020, drivenKilometers=4000
+id =7095, brand=Mercedes-Benz, model=CLA, Manufacture Year=2018, drivenKilometers=4700
+id =7127, brand=Mahindra, model=XUV300, Manufacture Year=2020, drivenKilometers=2836
+id =7128, brand=Mahindra, model=XUV300, Manufacture Year=2020, drivenKilometers=2836
+id =7131, brand=Toyota, model=Fortuner, Manufacture Year=2013, drivenKilometers=2065
+id =7132, brand=Toyota, model=Fortuner, Manufacture Year=2013, drivenKilometers=2065
+id =7212, brand=MG, model=Hector Plus, Manufacture Year=2021, drivenKilometers=3000
+id =7215, brand=MG, model=Hector Plus, Manufacture Year=2021, drivenKilometers=3760
+id =7225, brand=Mahindra, model=XUV500, Manufacture Year=2020, drivenKilometers=4950
+id =7241, brand=Hyundai, model=Creta, Manufacture Year=2017, drivenKilometers=2276
+id =7276, brand=Jeep, model=Compass, Manufacture Year=2020, drivenKilometers=4304
+id =7280, brand=Kia, model=Sonet, Manufacture Year=2021, drivenKilometers=4000
+id =7316, brand=Mercedes-Benz, model=E-Class, Manufacture Year=2019, drivenKilometers=2500
+id =7379, brand=BMW, model=3 Series, Manufacture Year=2020, drivenKilometers=4000
+id =7603, brand=Hyundai, model=Grand i10, Manufacture Year=2018, drivenKilometers=3800
+id =7607, brand=Maruti, model=S-Presso, Manufacture Year=2020, drivenKilometers=3400
+id =7661, brand=Renault, model=Duster, Manufacture Year=2021, drivenKilometers=1000
+id =7662, brand=Renault, model=Duster, Manufacture Year=2021, drivenKilometers=1000
+id =7688, brand=Maruti, model=Vitara Brezza, Manufacture Year=2021, drivenKilometers=1800
+id =7748, brand=Nissan, model=Magnite, Manufacture Year=2021, drivenKilometers=1400
+id =7755, brand=Tata, model=Harrier, Manufacture Year=2021, drivenKilometers=2500
+id =7796, brand=Ford, model=Ecosport, Manufacture Year=2021, drivenKilometers=2500
+id =7803, brand=Nissan, model=Magnite, Manufacture Year=2021, drivenKilometers=2500
+id =7887, brand=Mercedes-Benz, model=GLA Class, Manufacture Year=2019, drivenKilometers=4000
+id =7900, brand=Maruti, model=Eeco, Manufacture Year=2019, drivenKilometers=5000
+id =8199, brand=Mahindra, model=XUV500, Manufacture Year=2020, drivenKilometers=5000
+id =8215, brand=Hyundai, model=Venue, Manufacture Year=2020, drivenKilometers=3600
+id =8218, brand=Kia, model=Seltos, Manufacture Year=2020, drivenKilometers=3121
+id =8245, brand=Maruti, model=Omni, Manufacture Year=2018, drivenKilometers=3069
+id =8260, brand=Audi, model=TT, Manufacture Year=2017, drivenKilometers=4000
+id =8272, brand=Renault, model=Triber, Manufacture Year=2019, drivenKilometers=1636
+id =8339, brand=Mercedes-Benz, model=GLS, Manufacture Year=2021, drivenKilometers=4000
+id =8340, brand=Audi, model=Q8, Manufacture Year=2021, drivenKilometers=1100
+id =8344, brand=Maruti, model=S-Presso, Manufacture Year=2020, drivenKilometers=2293
+id =8350, brand=Maruti, model=Alto 800, Manufacture Year=2020, drivenKilometers=1067
+id =8351, brand=Mercedes-Benz, model=New C-Class, Manufacture Year=2017, drivenKilometers=4490
+id =8357, brand=Maruti, model=Alto 800, Manufacture Year=2020, drivenKilometers=1877
+id =8360, brand=Maruti, model=Alto K10, Manufacture Year=2019, drivenKilometers=4383
+id =8473, brand=Maruti, model=Baleno, Manufacture Year=2016, drivenKilometers=5000
+id =8527, brand=Mini, model=3 DOOR, Manufacture Year=2018, drivenKilometers=2200
+id =8580, brand=Maruti, model=Wagon R, Manufacture Year=2020, drivenKilometers=1754
+id =8641, brand=Fiat, model=Abarth 595, Manufacture Year=2015, drivenKilometers=5000
+id =8703, brand=Honda, model=Brio, Manufacture Year=2017, drivenKilometers=3000
+id =8949, brand=Maruti, model=Alto K10, Manufacture Year=2018, drivenKilometers=4100
+id =9105, brand=Honda, model=Brio, Manufacture Year=2017, drivenKilometers=3000
+id =9193, brand=Audi, model=S5, Manufacture Year=2020, drivenKilometers=1001
+id =9276, brand=Mahindra, model=XUV300, Manufacture Year=2020, drivenKilometers=4824
+id =9284, brand=Mercedes-Benz, model=GLA Class, Manufacture Year=2019, drivenKilometers=5000
+id =9294, brand=MG, model=Hector, Manufacture Year=2020, drivenKilometers=2300
+id =9299, brand=MG, model=Hector, Manufacture Year=2020, drivenKilometers=2300
+id =9305, brand=Mercedes-Benz, model=GLS, Manufacture Year=2020, drivenKilometers=5000
+id =9308, brand=MG, model=Hector Plus, Manufacture Year=2020, drivenKilometers=1400
+id =9309, brand=Mercedes-Benz, model=GLA Class, Manufacture Year=2019, drivenKilometers=5000
+id =9381, brand=MG, model=Hector, Manufacture Year=2021, drivenKilometers=4000
+id =9382, brand=MG, model=Hector, Manufacture Year=2021, drivenKilometers=4000
+id =9413, brand=Ford, model=Endeavour, Manufacture Year=2019, drivenKilometers=1800
+id =9414, brand=Ford, model=Endeavour, Manufacture Year=2019, drivenKilometers=1800
+id =9463, brand=Honda, model=WR-V, Manufacture Year=2019, drivenKilometers=5000
+id =9472, brand=Mercedes-Benz, model=GLC, Manufacture Year=2019, drivenKilometers=1200
+id =9473, brand=Hyundai, model=Creta, Manufacture Year=2019, drivenKilometers=3000
+id =9497, brand=Audi, model=Q8, Manufacture Year=2021, drivenKilometers=1100
+id =9523, brand=Ford, model=Ecosport, Manufacture Year=2019, drivenKilometers=3600
+id =9571, brand=Ford, model=Ecosport, Manufacture Year=2021, drivenKilometers=1200
+id =9627, brand=Maruti, model=Vitara Brezza, Manufacture Year=2021, drivenKilometers=1800
+id =9649, brand=Mercedes-Benz, model=GLA Class, Manufacture Year=2019, drivenKilometers=5000
+id =9653, brand=Mercedes-Benz, model=E-Class, Manufacture Year=2020, drivenKilometers=4901
+id =9673, brand=Mercedes-Benz, model=GLA Class, Manufacture Year=2019, drivenKilometers=5000
+id =9698, brand=Mercedes-Benz, model=GLS, Manufacture Year=2020, drivenKilometers=4800
+id =9702, brand=Audi, model=S5, Manufacture Year=2020, drivenKilometers=1001
+id =9793, brand=Maruti, model=Eeco, Manufacture Year=2017, drivenKilometers=4673
+id =9804, brand=Mercedes-Benz, model=GLC Coupe, Manufacture Year=2020, drivenKilometers=3000
+id =9806, brand=Mercedes-Benz, model=New C-Class, Manufacture Year=2017, drivenKilometers=4490
+id =9808, brand=DC, model=Avanti, Manufacture Year=2015, drivenKilometers=4000
+id =9878, brand=Toyota, model=Innova Crysta, Manufacture Year=2021, drivenKilometers=1002
+id =9917, brand=Maruti, model=Ertiga, Manufacture Year=2019, drivenKilometers=3000
+id =9920, brand=Maruti, model=XL6, Manufacture Year=2021, drivenKilometers=1000
+id =9955, brand=Toyota, model=Innova Crysta, Manufacture Year=2021, drivenKilometers=500
+id =9994, brand=Toyota, model=Innova Crysta, Manufacture Year=2020, drivenKilometers=2100
+id =10006, brand=Renault, model=Triber, Manufacture Year=2020, drivenKilometers=5000

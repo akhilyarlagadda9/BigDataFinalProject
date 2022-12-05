@@ -53,8 +53,6 @@ public class Car {
 		this.model = model;
 		this.bodyType = bodyType;
 	}
-	
-	
 
 	public int getId() {
 		return id;
@@ -134,6 +132,14 @@ public class Car {
 
 	public String Goal7String() {
 		return  "brand=" + brand +", model=" + model + ", bodyType=" + bodyType; 
+	}
+
+	public String Goal9String() {
+		return  "id ="+id+", brand=" + brand +", model=" + model + ", Manufacture Year="+year+", drivenKilometers="+drivenKilometers; 
+	}
+	
+	public String Goal10String() {
+		return "brand=" + brand +", model=" + model + ", Manufacture Year="+year; 
 	}
 	
 	
