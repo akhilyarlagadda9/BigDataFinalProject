@@ -9,7 +9,7 @@
 ###### Akhil Babu Yarlagadda
 ###### Ajay Makkena
 ###### Avinash Chundu
-###### Carter SMith T
+###### Carter Smith
 
 ## Tools Used
 ###### Data Bricks
