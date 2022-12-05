@@ -1,0 +1,190 @@
+brand=Volkswagen, model=Vento, fuel= diesel
+brand=Volkswagen, model=Passat, fuel= diesel
+brand=Volkswagen, model=Jetta, fuel= diesel
+brand=Volkswagen, model=Polo, fuel= diesel
+brand=Volkswagen, model=Ameo, fuel= diesel
+brand=Volkswagen, model=Tiguan, fuel= diesel
+brand=Volvo, model=S 80, fuel= diesel
+brand=Volvo, model=V40, fuel= diesel
+brand=Volvo, model=S60 Cross Country, fuel= diesel
+brand=Volvo, model=V40 Cross Country, fuel= diesel
+brand=Volvo, model=S90, fuel= diesel
+brand=Volvo, model=XC 90, fuel= diesel
+brand=Volvo, model=S60, fuel= diesel
+brand=Volvo, model=XC60, fuel= diesel
+brand=Volvo, model=XC40, fuel= diesel
+brand=Ssangyong, model=Rexton, fuel= diesel
+brand=Audi, model=A3, fuel= diesel
+brand=Audi, model=Q3, fuel= diesel
+brand=Audi, model=A4, fuel= diesel
+brand=Audi, model=A5, fuel= diesel
+brand=Audi, model=Q5, fuel= diesel
+brand=Audi, model=A6, fuel= diesel
+brand=Audi, model=A7, fuel= diesel
+brand=Audi, model=Q7, fuel= diesel
+brand=Audi, model=A8, fuel= diesel
+brand=Chevrolet, model=Enjoy, fuel= diesel
+brand=Chevrolet, model=Cruze, fuel= diesel
+brand=Chevrolet, model=Sail, fuel= diesel
+brand=Chevrolet, model=Optra Magnum, fuel= diesel
+brand=Chevrolet, model=Beat, fuel= diesel
+brand=Chevrolet, model=Captiva, fuel= diesel
+brand=Chevrolet, model=Tavera, fuel= diesel
+brand=Mercedes, model=Benz, fuel= diesel
+brand=Honda, model=Jazz, fuel= diesel
+brand=Honda, model=BR-V, fuel= diesel
+brand=Honda, model=Amaze, fuel= diesel
+brand=Honda, model=CR-V, fuel= diesel
+brand=Honda, model=Mobilio, fuel= diesel
+brand=Honda, model=City, fuel= diesel
+brand=Honda, model=WR-V, fuel= diesel
+brand=Mini, model=5 DOOR, fuel= diesel
+brand=Mini, model=Cooper Countryman, fuel= diesel
+brand=Porsche, model=Panamera, fuel= diesel
+brand=Porsche, model=Macan, fuel= diesel
+brand=Porsche, model=Cayenne, fuel= diesel
+brand=MG, model=Hector Plus, fuel= diesel
+brand=MG, model=Hector, fuel= diesel
+brand=Isuzu, model=MU-X, fuel= diesel
+brand=Isuzu, model=MU 7, fuel= diesel
+brand=Tata, model=Indica Vista, fuel= diesel
+brand=Tata, model=Hexa, fuel= diesel
+brand=Tata, model=Tiago, fuel= diesel
+brand=Tata, model=Zest, fuel= diesel
+brand=Tata, model=Indica, fuel= diesel
+brand=Tata, model=Nexon, fuel= diesel
+brand=Tata, model=Manza, fuel= diesel
+brand=Tata, model=NEXON, fuel= diesel
+brand=Tata, model=New Safari, fuel= diesel
+brand=Tata, model=Indigo, fuel= diesel
+brand=Tata, model=Safari Storme, fuel= diesel
+brand=Tata, model=Harrier, fuel= diesel
+brand=Hyundai, model=New, fuel= diesel
+brand=Hyundai, model=Venue, fuel= diesel
+brand=Hyundai, model=Getz, fuel= diesel
+brand=Hyundai, model=Accent, fuel= diesel
+brand=Hyundai, model=Tucson, fuel= diesel
+brand=Hyundai, model=Creta, fuel= diesel
+brand=Hyundai, model=Xcent, fuel= diesel
+brand=Hyundai, model=i20, fuel= diesel
+brand=Hyundai, model=Elantra, fuel= diesel
+brand=Hyundai, model=Elite, fuel= diesel
+brand=Hyundai, model=i20 Active, fuel= diesel
+brand=Hyundai, model=Santa Fe, fuel= diesel
+brand=Hyundai, model=Grand, fuel= diesel
+brand=Hyundai, model=Santa, fuel= diesel
+brand=Hyundai, model=VENUE, fuel= diesel
+brand=Hyundai, model=Grand i10, fuel= diesel
+brand=Hyundai, model=AURA, fuel= diesel
+brand=Hyundai, model=Verna, fuel= diesel
+brand=Maruti, model=Swift Dzire, fuel= diesel
+brand=Maruti, model=Celerio, fuel= diesel
+brand=Maruti, model=Vitara Brezza, fuel= diesel
+brand=Maruti, model=Ertiga, fuel= diesel
+brand=Maruti, model=SX4, fuel= diesel
+brand=Maruti, model=Baleno, fuel= diesel
+brand=Maruti, model=Vitara, fuel= diesel
+brand=Maruti, model=Dzire, fuel= diesel
+brand=Maruti, model=S, fuel= diesel
+brand=Maruti, model=SX4 S Cross, fuel= diesel
+brand=Maruti, model=Swift, fuel= diesel
+brand=Maruti, model=Ritz, fuel= diesel
+brand=Maruti, model=Ciaz, fuel= diesel
+brand=Kia, model=Carnival, fuel= diesel
+brand=Kia, model=Sonet, fuel= diesel
+brand=Kia, model=Seltos, fuel= diesel
+brand=Renault, model=Lodgy, fuel= diesel
+brand=Renault, model=Scala, fuel= diesel
+brand=Renault, model=Pulse, fuel= diesel
+brand=Renault, model=Koleos, fuel= diesel
+brand=Renault, model=Duster, fuel= diesel
+brand=Jeep, model=Compass, fuel= diesel
+brand=Mitsubishi, model=Pajero, fuel= diesel
+brand=BMW, model=3 Series GT, fuel= diesel
+brand=BMW, model=3, fuel= diesel
+brand=BMW, model=5, fuel= diesel
+brand=BMW, model=X1, fuel= diesel
+brand=BMW, model=X3, fuel= diesel
+brand=BMW, model=X4, fuel= diesel
+brand=BMW, model=6 Series, fuel= diesel
+brand=BMW, model=X5, fuel= diesel
+brand=BMW, model=X6, fuel= diesel
+brand=BMW, model=7 Series, fuel= diesel
+brand=BMW, model=3 Series, fuel= diesel
+brand=BMW, model=5 Series, fuel= diesel
+brand=Land, model=Rover Range Rover Velar, fuel= diesel
+brand=Land, model=Rover Discovery Sport, fuel= diesel
+brand=Land, model=Rover Freelander 2, fuel= diesel
+brand=Land, model=Rover Range Rover Evoque, fuel= diesel
+brand=Land, model=Rover Discovery, fuel= diesel
+brand=Land, model=Rover Range Rover Sport, fuel= diesel
+brand=Land, model=Rover Range Rover, fuel= diesel
+brand=Mahindra, model=Thar, fuel= diesel
+brand=Mahindra, model=Verito, fuel= diesel
+brand=Mahindra, model=Scorpio, fuel= diesel
+brand=Mahindra, model=Kuv100, fuel= diesel
+brand=Mahindra, model=TUV 300, fuel= diesel
+brand=Mahindra, model=Xylo, fuel= diesel
+brand=Mahindra, model=Bolero, fuel= diesel
+brand=Mahindra, model=NUVOSPORT, fuel= diesel
+brand=Mahindra, model=Bolero Power Plus, fuel= diesel
+brand=Mahindra, model=TUV300, fuel= diesel
+brand=Mahindra, model=Marazzo, fuel= diesel
+brand=Mahindra, model=KUV 100, fuel= diesel
+brand=Mahindra, model=XUV, fuel= diesel
+brand=Mahindra, model=XUV300, fuel= diesel
+brand=Mahindra, model=Quanto, fuel= diesel
+brand=Mahindra, model=Ssangyong Rexton, fuel= diesel
+brand=Mahindra, model=XUV500, fuel= diesel
+brand=Mahindra, model=Verito Vibe, fuel= diesel
+brand=Toyota, model=Innova Crysta, fuel= diesel
+brand=Toyota, model=Innova, fuel= diesel
+brand=Toyota, model=Fortuner, fuel= diesel
+brand=Toyota, model=Land Cruiser, fuel= diesel
+brand=Toyota, model=Etios Liva, fuel= diesel
+brand=Toyota, model=Etios, fuel= diesel
+brand=Toyota, model=Corolla, fuel= diesel
+brand=Toyota, model=Qualis, fuel= diesel
+brand=Skoda, model=Superb, fuel= diesel
+brand=Skoda, model=Octavia, fuel= diesel
+brand=Skoda, model=Laura, fuel= diesel
+brand=Skoda, model=Fabia, fuel= diesel
+brand=Skoda, model=Yeti, fuel= diesel
+brand=Skoda, model=Rapid, fuel= diesel
+brand=Skoda, model=Kodiaq, fuel= diesel
+brand=Fiat, model=Grande Punto, fuel= diesel
+brand=Fiat, model=Grand, fuel= diesel
+brand=Fiat, model=500, fuel= diesel
+brand=Fiat, model=Punto, fuel= diesel
+brand=Fiat, model=Linea, fuel= diesel
+brand=Jaguar, model=XJ, fuel= diesel
+brand=Jaguar, model=F-Pace, fuel= diesel
+brand=Jaguar, model=XE, fuel= diesel
+brand=Jaguar, model=XF, fuel= diesel
+brand=Mercedes-Benz, model=CLS-Class, fuel= diesel
+brand=Mercedes-Benz, model=B Class, fuel= diesel
+brand=Mercedes-Benz, model=V-Class, fuel= diesel
+brand=Mercedes-Benz, model=New C-Class, fuel= diesel
+brand=Mercedes-Benz, model=GLE Class, fuel= diesel
+brand=Mercedes-Benz, model=GLC Coupe, fuel= diesel
+brand=Mercedes-Benz, model=GL-Class, fuel= diesel
+brand=Mercedes-Benz, model=E-Class, fuel= diesel
+brand=Mercedes-Benz, model=A Class, fuel= diesel
+brand=Mercedes-Benz, model=S-Class, fuel= diesel
+brand=Mercedes-Benz, model=GLS, fuel= diesel
+brand=Mercedes-Benz, model=GLA Class, fuel= diesel
+brand=Mercedes-Benz, model=M-Class, fuel= diesel
+brand=Mercedes-Benz, model=CLA, fuel= diesel
+brand=Mercedes-Benz, model=GLC, fuel= diesel
+brand=Ford, model=Fiesta, fuel= diesel
+brand=Ford, model=Endeavour, fuel= diesel
+brand=Ford, model=EcoSport, fuel= diesel
+brand=Ford, model=Figo, fuel= diesel
+brand=Ford, model=Figo Aspire, fuel= diesel
+brand=Ford, model=Ecosport, fuel= diesel
+brand=Nissan, model=Terrano, fuel= diesel
+brand=Nissan, model=X-Trail, fuel= diesel
+brand=Nissan, model=X, fuel= diesel
+brand=Nissan, model=Micra, fuel= diesel
+brand=Nissan, model=Evalia, fuel= diesel
+brand=Nissan, model=Sunny, fuel= diesel

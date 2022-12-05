@@ -35,6 +35,12 @@ public class Car {
 		this.year = year;
 		this.goal2Count = count;
 	}
+
+	public Car(String brand,  String model, Long count) {
+		this.brand = brand;
+		this.model = model;
+		this.goal6Count = count;
+	}
 	
 	
 
@@ -97,6 +103,16 @@ public class Car {
 	public String Goal2String() {
 		return "brand=" + brand + ", Manufacture Year=" + year + ", count=" + this.goal2Count;
 	}
+
+	public String Goal3String() {
+		return  "brand=" + brand +", model=" + model + ", fuel= diesel"; 
+	}
+	
+	
+	public String Goal4String() {
+		return "id ="+id+", brand=" + brand + ", model="+ model+", Manufacture Year="+year+", price="+price; 
+	}
+	
 	
 	
 }
