@@ -41,6 +41,12 @@ public class Car {
 		this.model = model;
 		this.goal6Count = count;
 	}
+
+	public Car(String brand,  String model, int year) {
+		this.brand = brand;
+		this.model = model;
+		this.year = year;
+	}
 	
 	
 
@@ -113,6 +119,14 @@ public class Car {
 	
 	public String Goal4String() {
 		return "id ="+id+", brand=" + brand + ", model="+ model+", Manufacture Year="+year+", price="+price; 
+	}
+
+	public String Goal5String() {
+		return "id ="+id+", brand=" + brand +", model=" + model + ", Manufacture Year="+year+", location=" + location; 
+	}
+	
+	public String Goal6String() {
+		return  "brand=" + brand +", model=" + model + ", Count=" + this.goal6Count; 
 	}
 	
 	

@@ -1,0 +1,14 @@
+brand=BMW, model=7 Series 2002-2005, Count=1
+brand=BMW, model=6 Series, Count=11
+brand=BMW, model=7 Series, Count=24
+brand=BMW, model=3 Series, Count=34
+brand=BMW, model=5 Series, Count=72
+brand=BMW, model=3 Series GT, Count=6
+brand=BMW, model=3, Count=16
+brand=BMW, model=5, Count=4
+brand=BMW, model=X1, Count=29
+brand=BMW, model=Z4, Count=3
+brand=BMW, model=X3, Count=24
+brand=BMW, model=X4, Count=3
+brand=BMW, model=X5, Count=20
+brand=BMW, model=X6, Count=3

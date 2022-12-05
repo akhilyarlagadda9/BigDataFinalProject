@@ -107,6 +107,37 @@ public class CSVFileStream {
 		System.out.println("\n\nTotal execution time for Goal4 in milli_seconds: " + elapsedTime / 1000000);
 
 	}
+
+	private static void Goal5(List<Car> carsList) throws IOException {
+		long startTime = System.nanoTime();
+		PrintWriter pw = new PrintWriter(Files.newBufferedWriter(Paths.get("src/main/resources/goal5.txt")));
+		carsList.stream().filter(car -> car.getLocation().equalsIgnoreCase("delhi"))
+		.map( Car :: Goal5String ).forEach(pw::println);
+		pw.close();
+		long elapsedTime = System.nanoTime() - startTime;
+		System.out.println("\n\nTotal execution time for Goal5 in milli_seconds: " + elapsedTime / 1000000);
+
+	}
+
+	private static void Goal6(List<Car> carsList) throws IOException {
+		long startTime = System.nanoTime();
+		Map<String, Map<String, Long>> multipleFieldsMap = carsList.stream().filter(car -> (car.getBrand().equalsIgnoreCase("BMW")))
+		.collect(Collectors.groupingBy(Car::getBrand, 
+				Collectors.groupingBy(Car::getModel, 
+						Collectors.counting())));
+		List<Car> Goal6List = new ArrayList<>();
+		PrintWriter pw = new PrintWriter(Files.newBufferedWriter(Paths.get("src/main/resources/goal6.txt")));
+		for (Map.Entry<String, Map<String, Long>> entry : multipleFieldsMap.entrySet()) {
+			for(Map.Entry<String, Long> entry2 : entry.getValue().entrySet()) {
+				Goal6List.add(new Car(entry.getKey(),entry2.getKey(),entry2.getValue()));
+			}
+		}
+		Goal6List.stream().map(Car::Goal6String).forEach(pw::println);
+		pw.close();
+		long elapsedTime = System.nanoTime() - startTime;
+		System.out.println("\n\nTotal execution time for Goal6 in milli_seconds: " + elapsedTime / 1000000);
+
+	}
 	
 
 }
