@@ -94,6 +94,8 @@ public class CSVFileStream {
 
 	}
 
+
+
 	private static void Goal4(List<Car> carsList) throws IOException {
 		long startTime = System.nanoTime();
 		PrintWriter pw = new PrintWriter(Files.newBufferedWriter(Paths.get("src/main/resources/goal4.txt")));

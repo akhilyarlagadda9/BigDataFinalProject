@@ -104,6 +104,8 @@ public class Car {
 		return "brand=" + brand + ", Manufacture Year=" + year + ", count=" + this.goal2Count;
 	}
 
+
+
 	public String Goal3String() {
 		return  "brand=" + brand +", model=" + model + ", fuel= diesel"; 
 	}
