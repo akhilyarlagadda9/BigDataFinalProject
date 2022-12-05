@@ -1,0 +1,485 @@
+id=1, brand=Maruti, model=Alto, varient=K10 VXI, year=2018, drivenKilometers=5198, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=343799
+id=7, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=8501, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=309499
+id=9, brand=Maruti, model=Alto, varient=K10 LXI, year=2015, drivenKilometers=10957, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=302099
+id=14, brand=Maruti, model=Alto, varient=K10 VXI (O) AMT, year=2017, drivenKilometers=9036, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=360699
+id=16, brand=Maruti, model=Alto, varient=K10 LXI, year=2017, drivenKilometers=32669, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=271499
+id=17, brand=Maruti, model=Alto, varient=LXI, year=2010, drivenKilometers=29645, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=185299
+id=21, brand=Maruti, model=Alto, varient=800 LXI, year=2014, drivenKilometers=31745, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=258999
+id=26, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=9527, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=309299
+id=29, brand=Maruti, model=Alto, varient=800 LXI, year=2016, drivenKilometers=21305, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=305899
+id=30, brand=Maruti, model=Alto, varient=K10 VXI (O) AMT, year=2017, drivenKilometers=20764, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Delhi, price=369299
+id=32, brand=Maruti, model=Alto, varient=800 VXI, year=2016, drivenKilometers=24069, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=280799
+id=33, brand=Maruti, model=Alto, varient=LXI, year=2010, drivenKilometers=56231, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Delhi, price=174199
+id=36, brand=Maruti, model=Alto, varient=K10 VXI, year=2011, drivenKilometers=24353, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=208799
+id=37, brand=Maruti, model=Alto, varient=K10 VXI, year=2012, drivenKilometers=43148, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=213899
+id=40, brand=Maruti, model=Alto, varient=K10 LXI, year=2012, drivenKilometers=33175, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=240799
+id=50, brand=Maruti, model=Alto, varient=K10 LXI, year=2012, drivenKilometers=42321, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=201099
+id=51, brand=Maruti, model=Alto, varient=K10 VXI, year=2017, drivenKilometers=18905, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=340799
+id=57, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=23227, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=267199
+id=61, brand=Maruti, model=Alto, varient=800 LXI, year=2018, drivenKilometers=10123, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=283199
+id=62, brand=Maruti, model=Alto, varient=K10 LXI, year=2016, drivenKilometers=32519, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=295399
+id=64, brand=Maruti, model=Alto, varient=K10 VXI, year=2017, drivenKilometers=30113, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=306999
+id=65, brand=Maruti, model=Alto, varient=K10 VXI, year=2015, drivenKilometers=46683, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=263399
+id=67, brand=Maruti, model=Alto, varient=800 VXI, year=2016, drivenKilometers=32339, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=269599
+id=71, brand=Maruti, model=Alto, varient=LXI, year=2009, drivenKilometers=35919, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=171699
+id=78, brand=Maruti, model=Alto, varient=K10 VXI, year=2018, drivenKilometers=3212, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=367999
+id=79, brand=Maruti, model=Alto, varient=800 VXI, year=2014, drivenKilometers=37134, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=256399
+id=80, brand=Maruti, model=Alto, varient=K10 VXI, year=2014, drivenKilometers=51228, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=260499
+id=81, brand=Maruti, model=Alto, varient=K10 VXI, year=2011, drivenKilometers=51523, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=228799
+id=92, brand=Maruti, model=Alto, varient=K10 VXI, year=2010, drivenKilometers=63843, fuel=Petrol, ownerType=Third Owner, bodyType=Hatchback, location=Delhi, price=173799
+id=101, brand=Maruti, model=Alto, varient=800 LXI, year=2016, drivenKilometers=36717, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=282499
+id=110, brand=Maruti, model=Alto, varient=LXI, year=2009, drivenKilometers=55752, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=143799
+id=115, brand=Maruti, model=Alto, varient=800 LXI, year=2015, drivenKilometers=50024, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=266999
+id=118, brand=Maruti, model=Alto, varient=LXI, year=2010, drivenKilometers=70239, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=150499
+id=129, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=65151, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=287399
+id=133, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=41185, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=286499
+id=144, brand=Maruti, model=Alto, varient=LXI, year=2008, drivenKilometers=62613, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=141099
+id=163, brand=Maruti, model=Alto, varient=LXI, year=2009, drivenKilometers=57864, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=143199
+id=174, brand=Maruti, model=Alto, varient=800 LXI, year=2015, drivenKilometers=61907, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=231799
+id=177, brand=Maruti, model=Alto, varient=K10 LXI, year=2011, drivenKilometers=80346, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=207499
+id=189, brand=Maruti, model=Alto, varient=LXI, year=2008, drivenKilometers=83258, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=134599
+id=199, brand=Maruti, model=Alto, varient=K10 VXI, year=2016, drivenKilometers=85207, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Delhi, price=268299
+id=200, brand=Maruti, model=Alto, varient=LXI, year=2008, drivenKilometers=54799, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=112399
+id=217, brand=Maruti, model=Alto, varient=K10 VXI, year=2011, drivenKilometers=118427, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=168499
+id=267, brand=Maruti, model=Alto, varient=800 LXI, year=2012, drivenKilometers=126375, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Delhi, price=195299
+id=328, brand=Maruti, model=Alto, varient=800 VXI, year=2014, drivenKilometers=38526, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Delhi, price=216099
+id=334, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=18946, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=275399
+id=335, brand=Maruti, model=Alto, varient=LXI, year=2010, drivenKilometers=14455, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=178299
+id=338, brand=Maruti, model=Alto, varient=LXI, year=2011, drivenKilometers=38478, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=182399
+id=340, brand=Maruti, model=Alto, varient=K10 VXI AMT, year=2016, drivenKilometers=47974, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=273499
+id=343, brand=Maruti, model=Alto, varient=K10 VXI, year=2019, drivenKilometers=8339, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=399099
+id=346, brand=Maruti, model=Alto, varient=K10 VXI, year=2015, drivenKilometers=51412, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=261799
+id=368, brand=Maruti, model=Alto, varient=K10 VXI, year=2011, drivenKilometers=20354, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=210999
+id=373, brand=Maruti, model=Alto, varient=800 VXI, year=2017, drivenKilometers=12676, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Delhi, price=275099
+id=379, brand=Maruti, model=Alto, varient=800 LXI, year=2013, drivenKilometers=29578, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=181799
+id=381, brand=Maruti, model=Alto, varient=K10 VXI, year=2010, drivenKilometers=41190, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=176199
+id=383, brand=Maruti, model=Alto, varient=LXI, year=2011, drivenKilometers=49111, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Delhi, price=127299
+id=385, brand=Maruti, model=Alto, varient=K10 VXI, year=2013, drivenKilometers=36750, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=210699
+id=386, brand=Maruti, model=Alto, varient=K10 VXI, year=2014, drivenKilometers=24357, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=272399
+id=387, brand=Maruti, model=Alto, varient=800 LXI, year=2014, drivenKilometers=16339, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=231299
+id=388, brand=Maruti, model=Alto, varient=K10 VXI, year=2011, drivenKilometers=11886, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=214099
+id=389, brand=Maruti, model=Alto, varient=800 VXI, year=2014, drivenKilometers=42796, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=242099
+id=396, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=18113, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=282999
+id=409, brand=Maruti, model=Alto, varient=K10 VXI, year=2015, drivenKilometers=57955, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=263699
+id=410, brand=Maruti, model=Alto, varient=800 LXI, year=2018, drivenKilometers=5851, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=308599
+id=411, brand=Maruti, model=Alto, varient=LXI, year=2010, drivenKilometers=25088, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Delhi, price=173599
+id=415, brand=Maruti, model=Alto, varient=K10 LXI, year=2017, drivenKilometers=2678, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=277799
+id=425, brand=Maruti, model=Alto, varient=K10 VXI, year=2013, drivenKilometers=21784, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Delhi, price=235399
+id=429, brand=Maruti, model=Alto, varient=800 LXI, year=2013, drivenKilometers=50250, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=193299
+id=438, brand=Maruti, model=Alto, varient=LXI, year=2020, drivenKilometers=19593, fuel=Petrol + CNG, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=321199
+id=440, brand=Maruti, model=Alto, varient=K10 VXI, year=2016, drivenKilometers=34487, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=262199
+id=452, brand=Maruti, model=Alto, varient=800 LXI, year=2018, drivenKilometers=27886, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=272899
+id=469, brand=Maruti, model=Alto, varient=LXI, year=2008, drivenKilometers=58267, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=109699
+id=478, brand=Maruti, model=Alto, varient=800 LXI, year=2014, drivenKilometers=66835, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=211899
+id=479, brand=Maruti, model=Alto, varient=LXI, year=2020, drivenKilometers=18509, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=309199
+id=493, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=52578, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Delhi, price=239099
+id=523, brand=Maruti, model=Alto, varient=K10 VXI, year=2015, drivenKilometers=39904, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=213899
+id=530, brand=Maruti, model=Alto, varient=800 LXI, year=2019, drivenKilometers=36612, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=271599
+id=534, brand=Maruti, model=Alto, varient=K10 LXI, year=2015, drivenKilometers=93206, fuel=Petrol + CNG, ownerType=Second Owner, bodyType=Hatchback, location=Delhi, price=212099
+id=542, brand=Maruti, model=Alto, varient=K10 LXI, year=2012, drivenKilometers=50067, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=188000
+id=606, brand=Maruti, model=Alto, varient=800 LX CNG, year=2016, drivenKilometers=38176, fuel=Petrol + CNG, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=290000
+id=609, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=38682, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=225000
+id=612, brand=Maruti, model=Alto, varient=800 LX, year=2013, drivenKilometers=64046, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=134000
+id=622, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=53631, fuel=Petrol + CNG, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=310000
+id=633, brand=Maruti, model=Alto, varient=K10 VXI, year=2016, drivenKilometers=18003, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=261499
+id=634, brand=Maruti, model=Alto, varient=LXI, year=2020, drivenKilometers=3942, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=373399
+id=636, brand=Maruti, model=Alto, varient=K10 VXI AMT, year=2016, drivenKilometers=226232, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=308099
+id=638, brand=Maruti, model=Alto, varient=K10 VXI, year=2018, drivenKilometers=20269, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=340199
+id=639, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=38911, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=271699
+id=645, brand=Maruti, model=Alto, varient=LXI, year=2019, drivenKilometers=41638, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=337299
+id=646, brand=Maruti, model=Alto, varient=K10 VXI OPT, year=2016, drivenKilometers=67755, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=275099
+id=651, brand=Maruti, model=Alto, varient=K10 VXI, year=2015, drivenKilometers=90530, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=254299
+id=652, brand=Maruti, model=Alto, varient=K10 VXI, year=2014, drivenKilometers=69763, fuel=Petrol, ownerType=Third Owner, bodyType=Hatchback, location=Delhi, price=231499
+id=653, brand=Maruti, model=Alto, varient=K10 VXI, year=2017, drivenKilometers=106867, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=303799
+id=658, brand=Maruti, model=Alto, varient=800 LXI, year=2016, drivenKilometers=114943, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=219599
+id=661, brand=Maruti, model=Alto, varient=LXI, year=2008, drivenKilometers=21728, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Delhi, price=136499
+id=663, brand=Maruti, model=Alto, varient=K10 VXI, year=2011, drivenKilometers=47593, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=178099
+id=668, brand=Maruti, model=Alto, varient=LXI, year=2019, drivenKilometers=5251, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=356699
+id=669, brand=Maruti, model=Alto, varient=K10 VXI (O) AMT, year=2017, drivenKilometers=31495, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi, price=357299
+id=676, brand=Maruti, model=Alto, varient=LXI, year=2007, drivenKilometers=57718, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Delhi, price=92799
+id=683, brand=Maruti, model=Alto, varient=800 LXI, year=2018, drivenKilometers=21941, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Delhi, price=277399
+id=1291, brand=Maruti, model=Alto, varient=800 LXI, year=2013, drivenKilometers=29578, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=181799
+id=1293, brand=Maruti, model=Alto, varient=K10 VXI, year=2018, drivenKilometers=5198, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=343799
+id=1300, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=8501, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=309499
+id=1303, brand=Maruti, model=Alto, varient=K10 LXI, year=2015, drivenKilometers=10957, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=302099
+id=1308, brand=Maruti, model=Alto, varient=K10 VXI (O) AMT, year=2017, drivenKilometers=9036, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=360699
+id=1310, brand=Maruti, model=Alto, varient=K10 LXI, year=2017, drivenKilometers=32669, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=271499
+id=1311, brand=Maruti, model=Alto, varient=LXI, year=2010, drivenKilometers=29645, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=185299
+id=1315, brand=Maruti, model=Alto, varient=800 LXI, year=2014, drivenKilometers=31745, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=258999
+id=1319, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=9527, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=309299
+id=1322, brand=Maruti, model=Alto, varient=800 LXI, year=2016, drivenKilometers=21305, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=305899
+id=1323, brand=Maruti, model=Alto, varient=K10 VXI (O) AMT, year=2017, drivenKilometers=20764, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Noida, price=369299
+id=1325, brand=Maruti, model=Alto, varient=800 VXI, year=2016, drivenKilometers=24069, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=280799
+id=1326, brand=Maruti, model=Alto, varient=LXI, year=2010, drivenKilometers=56231, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Noida, price=174199
+id=1329, brand=Maruti, model=Alto, varient=K10 VXI, year=2011, drivenKilometers=24353, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=208799
+id=1330, brand=Maruti, model=Alto, varient=K10 VXI, year=2012, drivenKilometers=43148, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=213899
+id=1333, brand=Maruti, model=Alto, varient=K10 LXI, year=2012, drivenKilometers=33175, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=240799
+id=1343, brand=Maruti, model=Alto, varient=K10 LXI, year=2012, drivenKilometers=42321, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=201099
+id=1344, brand=Maruti, model=Alto, varient=K10 VXI, year=2017, drivenKilometers=18905, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=340799
+id=1350, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=23227, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=267199
+id=1354, brand=Maruti, model=Alto, varient=800 LXI, year=2018, drivenKilometers=10123, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=283199
+id=1355, brand=Maruti, model=Alto, varient=K10 LXI, year=2016, drivenKilometers=32519, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=295399
+id=1357, brand=Maruti, model=Alto, varient=K10 VXI, year=2017, drivenKilometers=30113, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=306999
+id=1358, brand=Maruti, model=Alto, varient=K10 VXI, year=2015, drivenKilometers=46683, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=263399
+id=1360, brand=Maruti, model=Alto, varient=800 VXI, year=2016, drivenKilometers=32339, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=269599
+id=1365, brand=Maruti, model=Alto, varient=LXI, year=2009, drivenKilometers=35919, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=171699
+id=1374, brand=Maruti, model=Alto, varient=K10 VXI, year=2018, drivenKilometers=3212, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=367999
+id=1375, brand=Maruti, model=Alto, varient=800 VXI, year=2014, drivenKilometers=37134, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=256399
+id=1376, brand=Maruti, model=Alto, varient=K10 VXI, year=2014, drivenKilometers=51228, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=260499
+id=1377, brand=Maruti, model=Alto, varient=K10 VXI, year=2011, drivenKilometers=51523, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=228799
+id=1388, brand=Maruti, model=Alto, varient=K10 VXI, year=2010, drivenKilometers=63843, fuel=Petrol, ownerType=Third Owner, bodyType=Hatchback, location=Noida, price=173799
+id=1397, brand=Maruti, model=Alto, varient=800 LXI, year=2016, drivenKilometers=36717, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=282499
+id=1406, brand=Maruti, model=Alto, varient=LXI, year=2009, drivenKilometers=55752, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=143799
+id=1411, brand=Maruti, model=Alto, varient=800 LXI, year=2015, drivenKilometers=50024, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=266999
+id=1414, brand=Maruti, model=Alto, varient=LXI, year=2010, drivenKilometers=70239, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=150499
+id=1425, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=65151, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=287399
+id=1429, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=41185, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=286499
+id=1440, brand=Maruti, model=Alto, varient=LXI, year=2008, drivenKilometers=62613, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=141099
+id=1459, brand=Maruti, model=Alto, varient=LXI, year=2009, drivenKilometers=57864, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=143199
+id=1470, brand=Maruti, model=Alto, varient=800 LXI, year=2015, drivenKilometers=61907, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=231799
+id=1473, brand=Maruti, model=Alto, varient=K10 LXI, year=2011, drivenKilometers=80346, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=207499
+id=1485, brand=Maruti, model=Alto, varient=LXI, year=2008, drivenKilometers=83258, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=134599
+id=1495, brand=Maruti, model=Alto, varient=K10 VXI, year=2016, drivenKilometers=85207, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Noida, price=268299
+id=1496, brand=Maruti, model=Alto, varient=LXI, year=2008, drivenKilometers=54799, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=112399
+id=1513, brand=Maruti, model=Alto, varient=K10 VXI, year=2011, drivenKilometers=118427, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=168499
+id=1563, brand=Maruti, model=Alto, varient=800 LXI, year=2012, drivenKilometers=126375, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Noida, price=195299
+id=1624, brand=Maruti, model=Alto, varient=800 VXI, year=2014, drivenKilometers=38526, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Noida, price=216099
+id=1630, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=18946, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=275399
+id=1631, brand=Maruti, model=Alto, varient=LXI, year=2010, drivenKilometers=14455, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=178299
+id=1635, brand=Maruti, model=Alto, varient=LXI, year=2011, drivenKilometers=38478, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=182399
+id=1637, brand=Maruti, model=Alto, varient=K10 VXI AMT, year=2016, drivenKilometers=47974, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=273499
+id=1640, brand=Maruti, model=Alto, varient=K10 VXI, year=2019, drivenKilometers=8339, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=399099
+id=1642, brand=Maruti, model=Alto, varient=K10 VXI, year=2015, drivenKilometers=51412, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=261799
+id=1662, brand=Maruti, model=Alto, varient=K10 VXI, year=2011, drivenKilometers=20354, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=210999
+id=1666, brand=Maruti, model=Alto, varient=800 VXI, year=2017, drivenKilometers=12676, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Noida, price=275099
+id=1673, brand=Maruti, model=Alto, varient=K10 VXI, year=2010, drivenKilometers=41190, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=176199
+id=1675, brand=Maruti, model=Alto, varient=LXI, year=2011, drivenKilometers=49111, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Noida, price=127299
+id=1677, brand=Maruti, model=Alto, varient=K10 VXI, year=2013, drivenKilometers=36750, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=210699
+id=1678, brand=Maruti, model=Alto, varient=K10 VXI, year=2014, drivenKilometers=24357, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=272399
+id=1679, brand=Maruti, model=Alto, varient=800 LXI, year=2014, drivenKilometers=16339, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=231299
+id=1680, brand=Maruti, model=Alto, varient=K10 VXI, year=2011, drivenKilometers=11886, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=214099
+id=1681, brand=Maruti, model=Alto, varient=800 VXI, year=2014, drivenKilometers=42796, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=242099
+id=1687, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=18113, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=282999
+id=1700, brand=Maruti, model=Alto, varient=K10 VXI, year=2015, drivenKilometers=57955, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=263699
+id=1701, brand=Maruti, model=Alto, varient=800 LXI, year=2018, drivenKilometers=5851, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=308599
+id=1702, brand=Maruti, model=Alto, varient=LXI, year=2010, drivenKilometers=25088, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Noida, price=173599
+id=1706, brand=Maruti, model=Alto, varient=K10 LXI, year=2017, drivenKilometers=2678, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=277799
+id=1715, brand=Maruti, model=Alto, varient=K10 VXI, year=2013, drivenKilometers=21784, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Noida, price=235399
+id=1719, brand=Maruti, model=Alto, varient=800 LXI, year=2013, drivenKilometers=50250, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=193299
+id=1726, brand=Maruti, model=Alto, varient=LXI, year=2020, drivenKilometers=19593, fuel=Petrol + CNG, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=321199
+id=1728, brand=Maruti, model=Alto, varient=K10 VXI, year=2016, drivenKilometers=34487, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=262199
+id=1739, brand=Maruti, model=Alto, varient=800 LXI, year=2018, drivenKilometers=27886, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=272899
+id=1755, brand=Maruti, model=Alto, varient=LXI, year=2008, drivenKilometers=58267, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=109699
+id=1764, brand=Maruti, model=Alto, varient=800 LXI, year=2014, drivenKilometers=66835, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=211899
+id=1765, brand=Maruti, model=Alto, varient=LXI, year=2020, drivenKilometers=18509, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=309199
+id=1779, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=52578, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Noida, price=239099
+id=1802, brand=Maruti, model=Alto, varient=800 LXI CNG, year=2014, drivenKilometers=101288, fuel=Petrol + CNG, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=208999
+id=1810, brand=Maruti, model=Alto, varient=K10 VXI, year=2015, drivenKilometers=39904, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=213899
+id=1816, brand=Maruti, model=Alto, varient=800 LXI, year=2019, drivenKilometers=36612, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=271599
+id=1820, brand=Maruti, model=Alto, varient=K10 LXI, year=2015, drivenKilometers=93206, fuel=Petrol + CNG, ownerType=Second Owner, bodyType=Hatchback, location=Noida, price=212099
+id=1828, brand=Maruti, model=Alto, varient=K10 VXI, year=2016, drivenKilometers=18003, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=261499
+id=1829, brand=Maruti, model=Alto, varient=LXI, year=2020, drivenKilometers=3942, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=373399
+id=1832, brand=Maruti, model=Alto, varient=K10 VXI AMT, year=2016, drivenKilometers=226232, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=308099
+id=1834, brand=Maruti, model=Alto, varient=K10 VXI, year=2018, drivenKilometers=20269, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=340199
+id=1835, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=38911, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=271699
+id=1841, brand=Maruti, model=Alto, varient=LXI, year=2019, drivenKilometers=41638, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=337299
+id=1842, brand=Maruti, model=Alto, varient=K10 VXI OPT, year=2016, drivenKilometers=67755, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=275099
+id=1847, brand=Maruti, model=Alto, varient=K10 VXI, year=2015, drivenKilometers=90530, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=254299
+id=1848, brand=Maruti, model=Alto, varient=K10 VXI, year=2014, drivenKilometers=69763, fuel=Petrol, ownerType=Third Owner, bodyType=Hatchback, location=Noida, price=231499
+id=1849, brand=Maruti, model=Alto, varient=K10 VXI, year=2017, drivenKilometers=106867, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=303799
+id=1854, brand=Maruti, model=Alto, varient=800 LXI, year=2016, drivenKilometers=114943, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=219599
+id=1857, brand=Maruti, model=Alto, varient=LXI, year=2008, drivenKilometers=21728, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Noida, price=136499
+id=1859, brand=Maruti, model=Alto, varient=K10 VXI, year=2011, drivenKilometers=47593, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=178099
+id=1863, brand=Maruti, model=Alto, varient=LXI, year=2019, drivenKilometers=5251, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=356699
+id=1864, brand=Maruti, model=Alto, varient=K10 VXI (O) AMT, year=2017, drivenKilometers=31495, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Noida, price=357299
+id=1871, brand=Maruti, model=Alto, varient=LXI, year=2007, drivenKilometers=57718, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Noida, price=92799
+id=1877, brand=Maruti, model=Alto, varient=800 LXI, year=2018, drivenKilometers=21941, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Noida, price=277399
+id=2376, brand=Maruti, model=Alto, varient=800 LXI, year=2013, drivenKilometers=29578, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=181799
+id=2378, brand=Maruti, model=Alto, varient=K10 VXI, year=2018, drivenKilometers=5198, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=343799
+id=2383, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=8501, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=309499
+id=2386, brand=Maruti, model=Alto, varient=K10 LXI, year=2015, drivenKilometers=10957, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=302099
+id=2391, brand=Maruti, model=Alto, varient=K10 VXI (O) AMT, year=2017, drivenKilometers=9036, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=360699
+id=2392, brand=Maruti, model=Alto, varient=K10 VXI, year=2013, drivenKilometers=36750, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=210699
+id=2394, brand=Maruti, model=Alto, varient=K10 LXI, year=2017, drivenKilometers=32669, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=271499
+id=2395, brand=Maruti, model=Alto, varient=LXI, year=2010, drivenKilometers=29645, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=185299
+id=2399, brand=Maruti, model=Alto, varient=800 LXI, year=2014, drivenKilometers=31745, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=258999
+id=2403, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=9527, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=309299
+id=2406, brand=Maruti, model=Alto, varient=800 LXI, year=2016, drivenKilometers=21305, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=305899
+id=2407, brand=Maruti, model=Alto, varient=K10 VXI (O) AMT, year=2017, drivenKilometers=20764, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Gurgaon, price=369299
+id=2410, brand=Maruti, model=Alto, varient=800 VXI, year=2016, drivenKilometers=24069, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=280799
+id=2411, brand=Maruti, model=Alto, varient=LXI, year=2010, drivenKilometers=56231, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Gurgaon, price=174199
+id=2414, brand=Maruti, model=Alto, varient=K10 VXI, year=2011, drivenKilometers=24353, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=208799
+id=2415, brand=Maruti, model=Alto, varient=K10 VXI, year=2012, drivenKilometers=43148, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=213899
+id=2418, brand=Maruti, model=Alto, varient=K10 LXI, year=2012, drivenKilometers=33175, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=240799
+id=2428, brand=Maruti, model=Alto, varient=K10 LXI, year=2012, drivenKilometers=42321, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=201099
+id=2429, brand=Maruti, model=Alto, varient=K10 VXI, year=2017, drivenKilometers=18905, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=340799
+id=2435, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=23227, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=267199
+id=2440, brand=Maruti, model=Alto, varient=800 LXI, year=2018, drivenKilometers=10123, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=283199
+id=2441, brand=Maruti, model=Alto, varient=K10 LXI, year=2016, drivenKilometers=32519, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=295399
+id=2443, brand=Maruti, model=Alto, varient=K10 VXI, year=2017, drivenKilometers=30113, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=306999
+id=2444, brand=Maruti, model=Alto, varient=K10 VXI, year=2015, drivenKilometers=46683, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=263399
+id=2446, brand=Maruti, model=Alto, varient=800 VXI, year=2016, drivenKilometers=32339, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=269599
+id=2451, brand=Maruti, model=Alto, varient=LXI, year=2009, drivenKilometers=35919, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=171699
+id=2459, brand=Maruti, model=Alto, varient=K10 VXI, year=2018, drivenKilometers=3212, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=367999
+id=2460, brand=Maruti, model=Alto, varient=800 VXI, year=2014, drivenKilometers=37134, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=256399
+id=2461, brand=Maruti, model=Alto, varient=K10 VXI, year=2014, drivenKilometers=51228, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=260499
+id=2462, brand=Maruti, model=Alto, varient=K10 VXI, year=2011, drivenKilometers=51523, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=228799
+id=2473, brand=Maruti, model=Alto, varient=K10 VXI, year=2010, drivenKilometers=63843, fuel=Petrol, ownerType=Third Owner, bodyType=Hatchback, location=Gurgaon, price=173799
+id=2482, brand=Maruti, model=Alto, varient=800 LXI, year=2016, drivenKilometers=36717, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=282499
+id=2491, brand=Maruti, model=Alto, varient=LXI, year=2009, drivenKilometers=55752, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=143799
+id=2496, brand=Maruti, model=Alto, varient=800 LXI, year=2015, drivenKilometers=50024, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=266999
+id=2499, brand=Maruti, model=Alto, varient=LXI, year=2010, drivenKilometers=70239, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=150499
+id=2510, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=65151, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=287399
+id=2514, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=41185, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=286499
+id=2525, brand=Maruti, model=Alto, varient=LXI, year=2008, drivenKilometers=62613, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=141099
+id=2544, brand=Maruti, model=Alto, varient=LXI, year=2009, drivenKilometers=57864, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=143199
+id=2555, brand=Maruti, model=Alto, varient=800 LXI, year=2015, drivenKilometers=61907, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=231799
+id=2558, brand=Maruti, model=Alto, varient=K10 LXI, year=2011, drivenKilometers=80346, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=207499
+id=2568, brand=Maruti, model=Alto, varient=LXI, year=2008, drivenKilometers=83258, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=134599
+id=2578, brand=Maruti, model=Alto, varient=K10 VXI, year=2016, drivenKilometers=85207, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Gurgaon, price=268299
+id=2579, brand=Maruti, model=Alto, varient=LXI, year=2008, drivenKilometers=54799, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=112399
+id=2596, brand=Maruti, model=Alto, varient=K10 VXI, year=2011, drivenKilometers=118427, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=168499
+id=2647, brand=Maruti, model=Alto, varient=800 LXI, year=2012, drivenKilometers=126375, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Gurgaon, price=195299
+id=2713, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=18946, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=275399
+id=2714, brand=Maruti, model=Alto, varient=LXI, year=2010, drivenKilometers=14455, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=178299
+id=2718, brand=Maruti, model=Alto, varient=LXI, year=2011, drivenKilometers=38478, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=182399
+id=2720, brand=Maruti, model=Alto, varient=K10 VXI AMT, year=2016, drivenKilometers=47974, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=273499
+id=2723, brand=Maruti, model=Alto, varient=K10 VXI, year=2019, drivenKilometers=8339, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=399099
+id=2725, brand=Maruti, model=Alto, varient=K10 VXI, year=2015, drivenKilometers=51412, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=261799
+id=2744, brand=Maruti, model=Alto, varient=K10 VXI, year=2011, drivenKilometers=20354, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=210999
+id=2748, brand=Maruti, model=Alto, varient=800 VXI, year=2017, drivenKilometers=12676, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Gurgaon, price=275099
+id=2756, brand=Maruti, model=Alto, varient=K10 VXI, year=2010, drivenKilometers=41190, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=176199
+id=2758, brand=Maruti, model=Alto, varient=LXI, year=2011, drivenKilometers=49111, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Gurgaon, price=127299
+id=2760, brand=Maruti, model=Alto, varient=K10 VXI, year=2014, drivenKilometers=24357, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=272399
+id=2761, brand=Maruti, model=Alto, varient=800 LXI, year=2014, drivenKilometers=16339, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=231299
+id=2762, brand=Maruti, model=Alto, varient=K10 VXI, year=2011, drivenKilometers=11886, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=214099
+id=2763, brand=Maruti, model=Alto, varient=800 VXI, year=2014, drivenKilometers=42796, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=242099
+id=2769, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=18113, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=282999
+id=2782, brand=Maruti, model=Alto, varient=K10 VXI, year=2015, drivenKilometers=57955, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=263699
+id=2783, brand=Maruti, model=Alto, varient=800 LXI, year=2018, drivenKilometers=5851, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=308599
+id=2784, brand=Maruti, model=Alto, varient=LXI, year=2010, drivenKilometers=25088, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Gurgaon, price=173599
+id=2787, brand=Maruti, model=Alto, varient=K10 LXI, year=2017, drivenKilometers=2678, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=277799
+id=2796, brand=Maruti, model=Alto, varient=K10 VXI, year=2013, drivenKilometers=21784, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Gurgaon, price=235399
+id=2800, brand=Maruti, model=Alto, varient=800 LXI, year=2013, drivenKilometers=50250, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=193299
+id=2807, brand=Maruti, model=Alto, varient=LXI, year=2020, drivenKilometers=19593, fuel=Petrol + CNG, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=321199
+id=2809, brand=Maruti, model=Alto, varient=K10 VXI, year=2016, drivenKilometers=34487, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=262199
+id=2820, brand=Maruti, model=Alto, varient=800 LXI, year=2018, drivenKilometers=27886, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=272899
+id=2836, brand=Maruti, model=Alto, varient=LXI, year=2008, drivenKilometers=58267, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=109699
+id=2845, brand=Maruti, model=Alto, varient=800 LXI, year=2014, drivenKilometers=66835, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=211899
+id=2846, brand=Maruti, model=Alto, varient=LXI, year=2020, drivenKilometers=18509, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=309199
+id=2860, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=52578, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Gurgaon, price=239099
+id=2884, brand=Maruti, model=Alto, varient=800 LXI CNG, year=2014, drivenKilometers=101288, fuel=Petrol + CNG, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=208999
+id=2891, brand=Maruti, model=Alto, varient=K10 VXI, year=2015, drivenKilometers=39904, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=213899
+id=2897, brand=Maruti, model=Alto, varient=800 LXI, year=2019, drivenKilometers=36612, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=271599
+id=2901, brand=Maruti, model=Alto, varient=K10 LXI, year=2015, drivenKilometers=93206, fuel=Petrol + CNG, ownerType=Second Owner, bodyType=Hatchback, location=Gurgaon, price=212099
+id=2910, brand=Maruti, model=Alto, varient=K10 VXI, year=2016, drivenKilometers=18003, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=261499
+id=2911, brand=Maruti, model=Alto, varient=LXI, year=2020, drivenKilometers=3942, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=373399
+id=2913, brand=Maruti, model=Alto, varient=K10 VXI AMT, year=2016, drivenKilometers=226232, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=308099
+id=2915, brand=Maruti, model=Alto, varient=K10 VXI, year=2018, drivenKilometers=20269, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=340199
+id=2916, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=38911, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=271699
+id=2922, brand=Maruti, model=Alto, varient=LXI, year=2019, drivenKilometers=41638, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=337299
+id=2923, brand=Maruti, model=Alto, varient=K10 VXI OPT, year=2016, drivenKilometers=67755, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=275099
+id=2928, brand=Maruti, model=Alto, varient=K10 VXI, year=2014, drivenKilometers=69763, fuel=Petrol, ownerType=Third Owner, bodyType=Hatchback, location=Gurgaon, price=231499
+id=2929, brand=Maruti, model=Alto, varient=K10 VXI, year=2017, drivenKilometers=106867, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=303799
+id=2934, brand=Maruti, model=Alto, varient=800 LXI, year=2016, drivenKilometers=114943, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=219599
+id=2937, brand=Maruti, model=Alto, varient=LXI, year=2008, drivenKilometers=21728, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Gurgaon, price=136499
+id=2939, brand=Maruti, model=Alto, varient=K10 VXI, year=2015, drivenKilometers=90530, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=254299
+id=2940, brand=Maruti, model=Alto, varient=K10 VXI, year=2011, drivenKilometers=47593, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=178099
+id=2944, brand=Maruti, model=Alto, varient=LXI, year=2019, drivenKilometers=5251, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=356699
+id=2946, brand=Maruti, model=Alto, varient=K10 VXI (O) AMT, year=2017, drivenKilometers=31495, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Gurgaon, price=357299
+id=2953, brand=Maruti, model=Alto, varient=LXI, year=2007, drivenKilometers=57718, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Gurgaon, price=92799
+id=2959, brand=Maruti, model=Alto, varient=800 LXI, year=2018, drivenKilometers=21941, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Gurgaon, price=277399
+id=3458, brand=Maruti, model=Alto, varient=K10 VXI, year=2012, drivenKilometers=29067, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Mumbai, price=165199
+id=3465, brand=Maruti, model=Alto, varient=K10 VXI AMT, year=2016, drivenKilometers=13851, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=339699
+id=3469, brand=Maruti, model=Alto, varient=K10 VXI, year=2011, drivenKilometers=47057, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=196599
+id=3471, brand=Maruti, model=Alto, varient=800 LXI, year=2013, drivenKilometers=36374, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=239399
+id=3482, brand=Maruti, model=Alto, varient=LXI, year=2011, drivenKilometers=9742, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=200599
+id=3489, brand=Maruti, model=Alto, varient=800 LXI, year=2015, drivenKilometers=3370, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=267199
+id=3490, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=20192, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=294999
+id=3491, brand=Maruti, model=Alto, varient=K10 VXI AMT, year=2016, drivenKilometers=15395, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=320199
+id=3497, brand=Maruti, model=Alto, varient=800 VXI, year=2016, drivenKilometers=19176, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=287399
+id=3504, brand=Maruti, model=Alto, varient=800 LXI, year=2012, drivenKilometers=45103, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=249599
+id=3510, brand=Maruti, model=Alto, varient=800 LXI, year=2013, drivenKilometers=45481, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=262499
+id=3513, brand=Maruti, model=Alto, varient=800 LXI, year=2013, drivenKilometers=40256, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=249399
+id=3517, brand=Maruti, model=Alto, varient=800 LXI, year=2013, drivenKilometers=26848, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=235999
+id=3532, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=14245, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=283499
+id=3540, brand=Maruti, model=Alto, varient=800 LXI, year=2012, drivenKilometers=9042, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Mumbai, price=240599
+id=3549, brand=Maruti, model=Alto, varient=LXI, year=2011, drivenKilometers=77308, fuel=Petrol, ownerType=Third Owner, bodyType=Hatchback, location=Mumbai, price=138599
+id=3562, brand=Maruti, model=Alto, varient=K10 VXI, year=2016, drivenKilometers=45448, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=315199
+id=3569, brand=Maruti, model=Alto, varient=K10 LXI, year=2010, drivenKilometers=65510, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Mumbai, price=169399
+id=3574, brand=Maruti, model=Alto, varient=K10 LXI, year=2014, drivenKilometers=37168, fuel=Petrol, ownerType=Third Owner, bodyType=Hatchback, location=Mumbai, price=202399
+id=3584, brand=Maruti, model=Alto, varient=800 LXI, year=2015, drivenKilometers=7478, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Mumbai, price=264099
+id=3591, brand=Maruti, model=Alto, varient=K10 VXI, year=2011, drivenKilometers=59578, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=198199
+id=3593, brand=Maruti, model=Alto, varient=800 VXI, year=2018, drivenKilometers=4343, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=349699
+id=3612, brand=Maruti, model=Alto, varient=K10 VXI, year=2017, drivenKilometers=38079, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Mumbai, price=315999
+id=3623, brand=Maruti, model=Alto, varient=LXI, year=2009, drivenKilometers=87978, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=142099
+id=3625, brand=Maruti, model=Alto, varient=LXI, year=2009, drivenKilometers=63454, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=142499
+id=3632, brand=Maruti, model=Alto, varient=800 LXI, year=2012, drivenKilometers=70050, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=221499
+id=3643, brand=Maruti, model=Alto, varient=K10 VXI, year=2011, drivenKilometers=82414, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=202499
+id=3678, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=5946, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=302399
+id=3683, brand=Maruti, model=Alto, varient=K10 VXI, year=2011, drivenKilometers=31940, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=175000
+id=3687, brand=Maruti, model=Alto, varient=K10 VXI, year=2016, drivenKilometers=21933, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=327699
+id=3688, brand=Maruti, model=Alto, varient=K10 VXI AMT, year=2016, drivenKilometers=15842, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=336599
+id=3695, brand=Maruti, model=Alto, varient=800 LXI, year=2018, drivenKilometers=9833, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Mumbai, price=316299
+id=3765, brand=Maruti, model=Alto, varient=K10 VXI AMT, year=2016, drivenKilometers=62225, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Mumbai, price=275000
+id=3791, brand=Maruti, model=Alto, varient=K10 VXI AMT, year=2015, drivenKilometers=75355, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=265000
+id=3793, brand=Maruti, model=Alto, varient=LXI CNG, year=2011, drivenKilometers=125299, fuel=Petrol + CNG, ownerType=Second Owner, bodyType=Hatchback, location=Mumbai, price=175000
+id=3833, brand=Maruti, model=Alto, varient=800 LXI CNG OPT, year=2016, drivenKilometers=109625, fuel=Petrol + CNG, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=230599
+id=3851, brand=Maruti, model=Alto, varient=LXI, year=2009, drivenKilometers=46513, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=125000
+id=3855, brand=Maruti, model=Alto, varient=K10 VXI AMT, year=2016, drivenKilometers=10523, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=327499
+id=3859, brand=Maruti, model=Alto, varient=K10 VXI, year=2015, drivenKilometers=12657, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=282099
+id=3862, brand=Maruti, model=Alto, varient=K10 VXI AMT, year=2015, drivenKilometers=9013, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=349499
+id=3868, brand=Maruti, model=Alto, varient=K10 VXI, year=2014, drivenKilometers=29178, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=279599
+id=3871, brand=Maruti, model=Alto, varient=800 LXI, year=2014, drivenKilometers=9503, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=266699
+id=3878, brand=Maruti, model=Alto, varient=800 LXI, year=2014, drivenKilometers=22626, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Mumbai, price=267699
+id=3879, brand=Maruti, model=Alto, varient=800 LXI, year=2014, drivenKilometers=34408, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=280899
+id=3880, brand=Maruti, model=Alto, varient=K10 LXI, year=2010, drivenKilometers=44143, fuel=Petrol, ownerType=Third Owner, bodyType=Hatchback, location=Mumbai, price=202499
+id=3883, brand=Maruti, model=Alto, varient=K10 VXI, year=2014, drivenKilometers=18680, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=256799
+id=3892, brand=Maruti, model=Alto, varient=K10 VXI, year=2013, drivenKilometers=43203, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Mumbai, price=236299
+id=3893, brand=Maruti, model=Alto, varient=800 LXI, year=2016, drivenKilometers=18780, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=304499
+id=3897, brand=Maruti, model=Alto, varient=800 LXI, year=2018, drivenKilometers=17517, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=342899
+id=3903, brand=Maruti, model=Alto, varient=K10 VXI AMT, year=2016, drivenKilometers=25943, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=312699
+id=3905, brand=Maruti, model=Alto, varient=800 LXI, year=2013, drivenKilometers=27004, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=228599
+id=3906, brand=Maruti, model=Alto, varient=K10 VXI, year=2015, drivenKilometers=10490, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=261299
+id=3909, brand=Maruti, model=Alto, varient=800 LXI, year=2015, drivenKilometers=37164, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Mumbai, price=249699
+id=3910, brand=Maruti, model=Alto, varient=K10 VXI, year=2013, drivenKilometers=23826, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=225399
+id=3913, brand=Maruti, model=Alto, varient=800 LXI, year=2018, drivenKilometers=4065, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=360699
+id=3915, brand=Maruti, model=Alto, varient=K10 VXI, year=2013, drivenKilometers=49990, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=222999
+id=3920, brand=Maruti, model=Alto, varient=K10 VXI, year=2010, drivenKilometers=74680, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=168199
+id=3921, brand=Maruti, model=Alto, varient=K10 VXI, year=2015, drivenKilometers=7954, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=305399
+id=3926, brand=Maruti, model=Alto, varient=800 LXI, year=2014, drivenKilometers=51085, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Mumbai, price=258999
+id=3927, brand=Maruti, model=Alto, varient=800 VXI, year=2017, drivenKilometers=5927, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=301999
+id=3928, brand=Maruti, model=Alto, varient=K10 VXI, year=2014, drivenKilometers=60402, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=259999
+id=3939, brand=Maruti, model=Alto, varient=800 LXI, year=2015, drivenKilometers=30242, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=251799
+id=3940, brand=Maruti, model=Alto, varient=LXI, year=2009, drivenKilometers=24653, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=155699
+id=3944, brand=Maruti, model=Alto, varient=800 LXI, year=2014, drivenKilometers=20656, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=241199
+id=3945, brand=Maruti, model=Alto, varient=LXI, year=2012, drivenKilometers=70555, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=180999
+id=3954, brand=Maruti, model=Alto, varient=800 LXI, year=2016, drivenKilometers=44351, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=266499
+id=3962, brand=Maruti, model=Alto, varient=K10 VXI AMT, year=2015, drivenKilometers=51776, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=293499
+id=3971, brand=Maruti, model=Alto, varient=K10 VXI, year=2015, drivenKilometers=53317, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=288699
+id=3973, brand=Maruti, model=Alto, varient=LXI, year=2009, drivenKilometers=68273, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=141999
+id=3981, brand=Maruti, model=Alto, varient=K10 VXI, year=2013, drivenKilometers=76864, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=202499
+id=4033, brand=Maruti, model=Alto, varient=800 LXI, year=2014, drivenKilometers=114574, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Mumbai, price=270999
+id=4038, brand=Maruti, model=Alto, varient=K10 VXI, year=2017, drivenKilometers=14282, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=322399
+id=4039, brand=Maruti, model=Alto, varient=800 LXI, year=2016, drivenKilometers=33699, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=282499
+id=4045, brand=Maruti, model=Alto, varient=800 LXI, year=2015, drivenKilometers=22447, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=313999
+id=4046, brand=Maruti, model=Alto, varient=800 VXI, year=2017, drivenKilometers=33832, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=340499
+id=4057, brand=Maruti, model=Alto, varient=800 LXI, year=2014, drivenKilometers=31889, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=204499
+id=4060, brand=Maruti, model=Alto, varient=800 VXI, year=2014, drivenKilometers=22538, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=235199
+id=4065, brand=Maruti, model=Alto, varient=K10 VXI, year=2017, drivenKilometers=12838, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=335699
+id=4071, brand=Maruti, model=Alto, varient=K10 VXI, year=2016, drivenKilometers=17570, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=294099
+id=4079, brand=Maruti, model=Alto, varient=800 LXI, year=2014, drivenKilometers=3447, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=228899
+id=4080, brand=Maruti, model=Alto, varient=LXI, year=2009, drivenKilometers=39622, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=155299
+id=4081, brand=Maruti, model=Alto, varient=LXI, year=2009, drivenKilometers=16639, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=129399
+id=4088, brand=Maruti, model=Alto, varient=LXI, year=2010, drivenKilometers=64268, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Mumbai, price=138399
+id=4089, brand=Maruti, model=Alto, varient=K10 VXI (O) AMT, year=2018, drivenKilometers=13563, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=359299
+id=4095, brand=Maruti, model=Alto, varient=800 LXI CNG, year=2016, drivenKilometers=65486, fuel=Petrol + CNG, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=292799
+id=4107, brand=Maruti, model=Alto, varient=LXI, year=2007, drivenKilometers=62350, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Mumbai, price=104499
+id=4116, brand=Maruti, model=Alto, varient=800 LXI CNG, year=2016, drivenKilometers=99124, fuel=Petrol + CNG, ownerType=Second Owner, bodyType=Hatchback, location=Mumbai, price=261899
+id=4129, brand=Maruti, model=Alto, varient=800 LXI CNG, year=2014, drivenKilometers=64504, fuel=Petrol + CNG, ownerType=First Owner, bodyType=Hatchback, location=Mumbai, price=250599
+id=4775, brand=Maruti, model=Alto, varient=K10 VXI AMT, year=2016, drivenKilometers=10523, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=327499
+id=4779, brand=Maruti, model=Alto, varient=K10 VXI, year=2015, drivenKilometers=12657, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=282099
+id=4782, brand=Maruti, model=Alto, varient=K10 VXI AMT, year=2015, drivenKilometers=9013, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=349499
+id=4788, brand=Maruti, model=Alto, varient=K10 VXI, year=2014, drivenKilometers=29178, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=279599
+id=4791, brand=Maruti, model=Alto, varient=800 LXI, year=2014, drivenKilometers=9503, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=266699
+id=4798, brand=Maruti, model=Alto, varient=800 LXI, year=2014, drivenKilometers=22626, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Pune, price=267699
+id=4799, brand=Maruti, model=Alto, varient=800 LXI, year=2014, drivenKilometers=34408, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=280899
+id=4800, brand=Maruti, model=Alto, varient=K10 LXI, year=2010, drivenKilometers=44143, fuel=Petrol, ownerType=Third Owner, bodyType=Hatchback, location=Pune, price=202499
+id=4803, brand=Maruti, model=Alto, varient=K10 VXI, year=2014, drivenKilometers=18680, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=256799
+id=4812, brand=Maruti, model=Alto, varient=K10 VXI, year=2013, drivenKilometers=43203, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Pune, price=236299
+id=4813, brand=Maruti, model=Alto, varient=800 LXI, year=2016, drivenKilometers=18780, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=304499
+id=4817, brand=Maruti, model=Alto, varient=800 LXI, year=2018, drivenKilometers=17517, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=342899
+id=4823, brand=Maruti, model=Alto, varient=K10 VXI AMT, year=2016, drivenKilometers=25943, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=312699
+id=4825, brand=Maruti, model=Alto, varient=800 LXI, year=2013, drivenKilometers=27004, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=228599
+id=4826, brand=Maruti, model=Alto, varient=K10 VXI, year=2015, drivenKilometers=10490, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=261299
+id=4829, brand=Maruti, model=Alto, varient=800 LXI, year=2015, drivenKilometers=37164, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Pune, price=249699
+id=4830, brand=Maruti, model=Alto, varient=K10 VXI, year=2013, drivenKilometers=23826, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=225399
+id=4833, brand=Maruti, model=Alto, varient=800 LXI, year=2018, drivenKilometers=4065, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=360699
+id=4835, brand=Maruti, model=Alto, varient=K10 VXI, year=2013, drivenKilometers=49990, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=222999
+id=4840, brand=Maruti, model=Alto, varient=K10 VXI, year=2010, drivenKilometers=74680, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=168199
+id=4841, brand=Maruti, model=Alto, varient=K10 VXI, year=2015, drivenKilometers=7954, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=305399
+id=4846, brand=Maruti, model=Alto, varient=800 LXI, year=2014, drivenKilometers=51085, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Pune, price=258999
+id=4847, brand=Maruti, model=Alto, varient=800 VXI, year=2017, drivenKilometers=5927, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=301999
+id=4848, brand=Maruti, model=Alto, varient=K10 VXI, year=2014, drivenKilometers=60402, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=259999
+id=4859, brand=Maruti, model=Alto, varient=800 LXI, year=2015, drivenKilometers=30242, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=251799
+id=4860, brand=Maruti, model=Alto, varient=LXI, year=2009, drivenKilometers=24653, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=155699
+id=4864, brand=Maruti, model=Alto, varient=800 LXI, year=2014, drivenKilometers=20656, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=241199
+id=4865, brand=Maruti, model=Alto, varient=LXI, year=2012, drivenKilometers=70555, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=180999
+id=4874, brand=Maruti, model=Alto, varient=800 LXI, year=2016, drivenKilometers=44351, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=266499
+id=4882, brand=Maruti, model=Alto, varient=K10 VXI AMT, year=2015, drivenKilometers=51776, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=293499
+id=4891, brand=Maruti, model=Alto, varient=K10 VXI, year=2015, drivenKilometers=53317, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=288699
+id=4893, brand=Maruti, model=Alto, varient=LXI, year=2009, drivenKilometers=68273, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=141999
+id=4901, brand=Maruti, model=Alto, varient=K10 VXI, year=2013, drivenKilometers=76864, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=202499
+id=4908, brand=Maruti, model=Alto, varient=800 LXI CNG, year=2016, drivenKilometers=99124, fuel=Petrol + CNG, ownerType=Second Owner, bodyType=Hatchback, location=Pune, price=261899
+id=4954, brand=Maruti, model=Alto, varient=800 LXI, year=2014, drivenKilometers=114574, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Pune, price=270999
+id=4959, brand=Maruti, model=Alto, varient=K10 VXI, year=2017, drivenKilometers=14282, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=322399
+id=4960, brand=Maruti, model=Alto, varient=800 LXI, year=2016, drivenKilometers=33699, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=282499
+id=4966, brand=Maruti, model=Alto, varient=800 LXI, year=2015, drivenKilometers=22447, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=313999
+id=4967, brand=Maruti, model=Alto, varient=800 VXI, year=2017, drivenKilometers=33832, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=340499
+id=4979, brand=Maruti, model=Alto, varient=800 LXI, year=2014, drivenKilometers=31889, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=204499
+id=4982, brand=Maruti, model=Alto, varient=800 VXI, year=2014, drivenKilometers=22538, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=235199
+id=4987, brand=Maruti, model=Alto, varient=K10 VXI, year=2017, drivenKilometers=12838, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=335699
+id=4993, brand=Maruti, model=Alto, varient=K10 VXI, year=2016, drivenKilometers=17570, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=294099
+id=5001, brand=Maruti, model=Alto, varient=800 LXI, year=2014, drivenKilometers=3447, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=228899
+id=5002, brand=Maruti, model=Alto, varient=LXI, year=2009, drivenKilometers=39622, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=155299
+id=5003, brand=Maruti, model=Alto, varient=LXI, year=2009, drivenKilometers=16639, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=129399
+id=5010, brand=Maruti, model=Alto, varient=LXI, year=2010, drivenKilometers=64268, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Pune, price=138399
+id=5011, brand=Maruti, model=Alto, varient=K10 VXI (O) AMT, year=2018, drivenKilometers=13563, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=359299
+id=5017, brand=Maruti, model=Alto, varient=800 LXI CNG, year=2016, drivenKilometers=65486, fuel=Petrol + CNG, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=292799
+id=5029, brand=Maruti, model=Alto, varient=LXI, year=2007, drivenKilometers=62350, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Pune, price=104499
+id=5050, brand=Maruti, model=Alto, varient=800 LXI CNG, year=2014, drivenKilometers=64504, fuel=Petrol + CNG, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=250599
+id=5052, brand=Maruti, model=Alto, varient=800 VXI, year=2015, drivenKilometers=8322, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=282599
+id=5055, brand=Maruti, model=Alto, varient=K10 VXI, year=2012, drivenKilometers=29067, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Pune, price=165199
+id=5062, brand=Maruti, model=Alto, varient=K10 VXI AMT, year=2016, drivenKilometers=13851, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=339699
+id=5066, brand=Maruti, model=Alto, varient=K10 VXI, year=2011, drivenKilometers=47057, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=196599
+id=5068, brand=Maruti, model=Alto, varient=800 LXI, year=2013, drivenKilometers=36374, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=239399
+id=5079, brand=Maruti, model=Alto, varient=LXI, year=2011, drivenKilometers=9742, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=200599
+id=5086, brand=Maruti, model=Alto, varient=800 LXI, year=2015, drivenKilometers=3370, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=267199
+id=5087, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=20192, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=294999
+id=5088, brand=Maruti, model=Alto, varient=K10 VXI AMT, year=2016, drivenKilometers=15395, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=320199
+id=5094, brand=Maruti, model=Alto, varient=800 VXI, year=2016, drivenKilometers=19176, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=287399
+id=5101, brand=Maruti, model=Alto, varient=800 LXI, year=2012, drivenKilometers=45103, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=249599
+id=5107, brand=Maruti, model=Alto, varient=800 LXI, year=2013, drivenKilometers=45481, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=262499
+id=5110, brand=Maruti, model=Alto, varient=800 LXI, year=2013, drivenKilometers=40256, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=249399
+id=5114, brand=Maruti, model=Alto, varient=800 LXI, year=2013, drivenKilometers=26848, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=235999
+id=5129, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=14245, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=283499
+id=5137, brand=Maruti, model=Alto, varient=800 LXI, year=2012, drivenKilometers=9042, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Pune, price=240599
+id=5145, brand=Maruti, model=Alto, varient=LXI, year=2011, drivenKilometers=77308, fuel=Petrol, ownerType=Third Owner, bodyType=Hatchback, location=Pune, price=138599
+id=5158, brand=Maruti, model=Alto, varient=K10 VXI, year=2016, drivenKilometers=45448, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=315199
+id=5164, brand=Maruti, model=Alto, varient=K10 LXI, year=2010, drivenKilometers=65510, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Pune, price=169399
+id=5169, brand=Maruti, model=Alto, varient=K10 LXI, year=2014, drivenKilometers=37168, fuel=Petrol, ownerType=Third Owner, bodyType=Hatchback, location=Pune, price=202399
+id=5179, brand=Maruti, model=Alto, varient=800 LXI, year=2015, drivenKilometers=7478, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Pune, price=264099
+id=5186, brand=Maruti, model=Alto, varient=K10 VXI, year=2011, drivenKilometers=59578, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=198199
+id=5188, brand=Maruti, model=Alto, varient=800 VXI, year=2018, drivenKilometers=4343, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=349699
+id=5207, brand=Maruti, model=Alto, varient=K10 VXI, year=2017, drivenKilometers=38079, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Pune, price=315999
+id=5218, brand=Maruti, model=Alto, varient=LXI, year=2009, drivenKilometers=87978, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=142099
+id=5220, brand=Maruti, model=Alto, varient=LXI, year=2009, drivenKilometers=63454, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=142499
+id=5227, brand=Maruti, model=Alto, varient=K10 LXI, year=2010, drivenKilometers=83421, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Pune, price=117399
+id=5228, brand=Maruti, model=Alto, varient=800 LXI, year=2012, drivenKilometers=70050, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=221499
+id=5239, brand=Maruti, model=Alto, varient=K10 VXI, year=2011, drivenKilometers=82414, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=202499
+id=5272, brand=Maruti, model=Alto, varient=800 LXI, year=2017, drivenKilometers=5946, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=302399
+id=5276, brand=Maruti, model=Alto, varient=K10 VXI, year=2016, drivenKilometers=21933, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=327699
+id=5277, brand=Maruti, model=Alto, varient=K10 VXI AMT, year=2016, drivenKilometers=15842, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=336599
+id=5282, brand=Maruti, model=Alto, varient=800 LXI, year=2018, drivenKilometers=9833, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Pune, price=316299
+id=5341, brand=Maruti, model=Alto, varient=800 LXI CNG OPT, year=2016, drivenKilometers=109625, fuel=Petrol + CNG, ownerType=First Owner, bodyType=Hatchback, location=Pune, price=230599
+id=6028, brand=Maruti, model=Alto, varient=LX BSIII, year=2007, drivenKilometers=67000, fuel=Petrol, ownerType=Third Owner, bodyType=Hatchback, location=Ahmedabad, price=125000
+id=6054, brand=Maruti, model=Alto, varient=LXi, year=2008, drivenKilometers=48400, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Ahmedabad, price=145000
+id=6056, brand=Maruti, model=Alto, varient=LX BSIII, year=2007, drivenKilometers=66000, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Ahmedabad, price=125000
+id=6057, brand=Maruti, model=Alto, varient=LXi, year=2010, drivenKilometers=70000, fuel=Petrol, ownerType=Third Owner, bodyType=Hatchback, location=Ahmedabad, price=109000
+id=6071, brand=Maruti, model=Alto, varient=LXi BSIII, year=2007, drivenKilometers=70000, fuel=Petrol, ownerType=Third Owner, bodyType=Hatchback, location=Ahmedabad, price=125000
+id=6072, brand=Maruti, model=Alto, varient=LXi, year=2006, drivenKilometers=94000, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Ahmedabad, price=150000
+id=6151, brand=Maruti, model=Alto, varient=LXi BSIII, year=2009, drivenKilometers=8000, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Ahmedabad, price=200000
+id=6164, brand=Maruti, model=Alto, varient=LXi, year=2010, drivenKilometers=14000, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Ahmedabad, price=180000
+id=6175, brand=Maruti, model=Alto, varient=LXi, year=2010, drivenKilometers=13500, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Ahmedabad, price=200000
+id=6186, brand=Maruti, model=Alto, varient=LXi, year=2011, drivenKilometers=38300, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Ahmedabad, price=170000
+id=6199, brand=Maruti, model=Alto, varient=LXi, year=2011, drivenKilometers=68000, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Ahmedabad, price=165000
+id=6210, brand=Maruti, model=Alto, varient=LX, year=2006, drivenKilometers=40000, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Ahmedabad, price=125000
+id=6216, brand=Maruti, model=Alto, varient=LX BSIII, year=2008, drivenKilometers=48000, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Ahmedabad, price=120000
+id=6242, brand=Maruti, model=Alto, varient=LXi, year=2012, drivenKilometers=100000, fuel=Petrol, ownerType=Third Owner, bodyType=Hatchback, location=Ahmedabad, price=130000
+id=6281, brand=Maruti, model=Alto, varient=LXi, year=2011, drivenKilometers=60000, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Ahmedabad, price=122000
+id=6290, brand=Maruti, model=Alto, varient=STD, year=2007, drivenKilometers=145000, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Ahmedabad, price=65000
+id=6831, brand=Maruti, model=Alto, varient=LXi, year=2012, drivenKilometers=49310, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Bangalore, price=279000
+id=6929, brand=Maruti, model=Alto, varient=LXi, year=2006, drivenKilometers=75000, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Bangalore, price=156000
+id=8893, brand=Maruti, model=Alto, varient=LX, year=2007, drivenKilometers=75000, fuel=Petrol, ownerType=Second Owner, bodyType=Hatchback, location=Delhi NCR, price=89000
+id=8988, brand=Maruti, model=Alto, varient=LXi BSIII, year=2010, drivenKilometers=44000, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi NCR, price=140000
+id=9102, brand=Maruti, model=Alto, varient=LXi BSIII, year=2010, drivenKilometers=75000, fuel=Petrol, ownerType=First Owner, bodyType=Hatchback, location=Delhi NCR, price=134000
